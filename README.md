@@ -6,6 +6,8 @@ Notes on being a student
 
 I Ladok kan du som student se information om dina studier, exempelvis vilka kurser du läser och vilka resultat du fått på dem. Det är också vanligt att du kan hämta intyg, registrera dig på kurser, anmäla dig till tentamen, ansöka om examensbevis m.m.
 
+To view and handle your registration for courses, sign up for exams, and view your grades
+
 [Ladok student](https://www.student.ladok.se/student/app/studentwebb/)
 
 ## Athena
