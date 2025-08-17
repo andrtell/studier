@@ -20,3 +20,5 @@ All important information about your course along with information from the cour
 ## Kurser
 
 [Portuguese I (PO130A)](https://utbildning.su.se/english/education/course-catalogue/po/po130a?semester=HT2025&eventcode=07167)
+
+[Portuguese as a World Language (PO1POV)](https://utbildning.su.se/english/education/course-catalogue/po/po1pov?semester=HT2025&eventcode=07168)
