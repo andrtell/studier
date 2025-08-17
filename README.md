@@ -18,11 +18,9 @@ All important information about your course along with information from the cour
 
 [Athena](https://athena.itslearning.com/)
 
-
 ## Kurser
 
 ### Portuguese I / PO130A
-
 
 [Portuguese I / PO130A](https://utbildning.su.se/english/education/course-catalogue/po/po130a?semester=HT2025&eventcode=07167)
 
@@ -31,60 +29,57 @@ All important information about your course along with information from the cour
 [Literature List / PO130A](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
 
 ----
-
 #### Text and language structure I, 7,5 credits
-
 ---
-
 * Português Já! Iniciação Ensino Português no Estrangeiro. Gramática e Vocabulário (Porto Editora, 2016).
 * ISBN: 978-972-0-17068-2
 * [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)
-
 ---
-
 * Português Já! Consolidação Ensino Português no Estrangeiro. Gramática e Vocabulário.
 * ISBN: 978-972-0-17069-9
 * [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)
-
 ---
-
 * Portuguese - An Essential Grammar
 * Hutchinson, A. and J. Lloyd. (2003)
 * [Link](https://www.taylorfrancis.com/books/mono/10.4324/9781315307190/portuguese-amelia-hutchinson-cristina-sousa-janet-lloyd)
-
 ---
-
 * Portugisisk Språklära 
 * Bjellerup, Sven. 1973 (1993)
 * [Link](https://www.studentlitteratur.se/kurslitteratur/sprakvetenskap-och-sprakdidaktik/ovriga-sprak/portugisisk-spraklara)
-
 ---
-
 * Språkstruktur 1 & 2. Anteckningsunderlag. HT 2010 (kompendium på Athena)
 * Hedin, L.
 * Kompendium på Athena
-
 ---
-
-Recommended
-
+#### Recommended
 ---
-
 * Grammatiskt ABC
 * Florby, G. & E. Fält. (2004 eller senare).
 * Uppsala: Scripta textproduktion.
 * [Adlibris link](https://www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353)
-
 ---
-
 * A Frequency Dictionary of Portuguese: Core Vocabulary for Learners 
 * Mark Davies & Ana Maria Preto-Bay. (2008).
 * London: Routledge.
 * Available as an e-book through the Stockholm University Library.
 * [Amazon link](https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972)
-  
 ---
-
+#### Oral proficiency and interaction I, 7,5 credits
+---
+* Português Já! Iniciação Ensino Português no Estrangeiro. Gramática e Vocabulário (Porto Editora, 2016).
+* ISBN: 978-972-0-17068-2
+* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)
+---
+* Português Já! Consolidação Ensino Português no Estrangeiro. Gramática e Vocabulário.
+* ISBN: 978-972-0-17069-9
+* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)
+---
+#### Recommended
+---
+* Tá falado. Brazilian Portuguese Pronunciation for Speakers of Spanish,
+* [website](http://coerll.utexas.edu/brazilpod/tafalado/)
+* University of Texas at Austin, prof. Orlando Kelm.
+---
 
 ### Portuguese as a World Language / PO1POV
 
