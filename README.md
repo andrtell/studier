@@ -29,16 +29,19 @@ All important information about your course along with information from the cour
 [Literature List / PO130A](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
 
 ----
-#### Text and language structure I, 7,5 credits
+#### Böcker 1-3
 ---
-* Português Já! Iniciação Ensino Português no Estrangeiro. Gramática e Vocabulário (Porto Editora, 2016).
+* Português Já! **Iniciação** Ensino Português no Estrangeiro. Gramática e Vocabulário
+* Porto Editora, 2016
 * ISBN: 978-972-0-17068-2
 * [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)
 ---
-* Português Já! Consolidação Ensino Português no Estrangeiro. Gramática e Vocabulário.
+* Português Já! **Consolidação** Ensino Português no Estrangeiro. Gramática e Vocabulário.
 * ISBN: 978-972-0-17069-9
 * [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)
----
+----
+#### 1. Text and language structure I, 7,5 credits
+----
 * Portuguese - An Essential Grammar
 * Hutchinson, A. and J. Lloyd. (2003)
 * [Link](https://www.taylorfrancis.com/books/mono/10.4324/9781315307190/portuguese-amelia-hutchinson-cristina-sousa-janet-lloyd)
@@ -64,15 +67,7 @@ All important information about your course along with information from the cour
 * Available as an e-book through the Stockholm University Library.
 * [Amazon link](https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972)
 ---
-#### Oral proficiency and interaction I, 7,5 credits
----
-* Português Já! Iniciação Ensino Português no Estrangeiro. Gramática e Vocabulário (Porto Editora, 2016).
-* ISBN: 978-972-0-17068-2
-* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)
----
-* Português Já! Consolidação Ensino Português no Estrangeiro. Gramática e Vocabulário.
-* ISBN: 978-972-0-17069-9
-* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)
+#### 2. Oral proficiency and interaction I, 7,5 credits
 ---
 #### Recommended
 ---
@@ -80,15 +75,7 @@ All important information about your course along with information from the cour
 * [website](http://coerll.utexas.edu/brazilpod/tafalado/)
 * University of Texas at Austin, prof. Orlando Kelm.
 ---
-#### Text and language structure II, 7,5 credits
----
-* Português Já! Iniciação Ensino Português no Estrangeiro. Gramática e Vocabulário (Porto Editora, 2016).
-* ISBN: 978-972-0-17068-2
-* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)
----
-* Português Já! Consolidação Ensino Português no Estrangeiro. Gramática e Vocabulário.
-* ISBN: 978-972-0-17069-9
-* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)
+#### 3. Text and language structure II, 7,5 credits
 ---
 * Fronteiras Perdidas
 * Agualusa, José Eduardo.
