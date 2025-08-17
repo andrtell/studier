@@ -15,3 +15,8 @@ Athena is the main collaboration platform for courses at Stockholm University. P
 All important information about your course along with information from the course instructors can be found on the Athena course page.
 
 [Athena](https://athena.itslearning.com/)
+
+
+## Kurser
+
+[Portuguese I (PO130A)](https://utbildning.su.se/english/education/course-catalogue/po/po130a?semester=HT2025&eventcode=07167)
