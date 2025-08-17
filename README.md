@@ -29,6 +29,11 @@ All important information about your course along with information from the cour
 
 [Literature List / PO130A](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
 
+* Português Já! Iniciação Ensino Português no Estrangeiro. Gramática e Vocabulário (Porto Editora, 2016). ISBN: 978-972-0-17068-2
+  [2022 Edition, not same ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)
+* Português Já! Consolidação Ensino Português no Estrangeiro. Gramática e Vocabulário.
+  [2022 Edition?, Not same ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)
+
 ### Portuguese as a World Language / PO1POV
 
 [Portuguese as a World Language / PO1POV](https://utbildning.su.se/english/education/course-catalogue/po/po1pov?semester=HT2025&eventcode=07168)
