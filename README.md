@@ -1,6 +1,10 @@
 # Studier
 Notes on being a student
 
+## TODO
+
+Campus, Datorer.
+Studentkort
 
 ## Ladok
 
