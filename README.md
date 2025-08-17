@@ -64,13 +64,16 @@ All important information about your course along with information from the cour
 * Grammatiskt ABC / recommended
 * Florby, G. & E. Fält. (2004 eller senare).
 * Uppsala: Scripta textproduktion.
+* [Adlibris link](https://www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353)
 
 ---
 
 * A Frequency Dictionary of Portuguese: Core Vocabulary for Learners / recommended
 * Mark Davies & Ana Maria Preto-Bay. (2008).
-* London: Routledge. (Available as an e-book through the Stockholm University Library.)
-
+* London: Routledge.
+* Available as an e-book through the Stockholm University Library.
+* [Amazon link](https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972)
+  
 ---
 
 
