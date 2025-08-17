@@ -23,11 +23,16 @@ All important information about your course along with information from the cour
 
 ### Portuguese I / PO130A
 
+
 [Portuguese I / PO130A](https://utbildning.su.se/english/education/course-catalogue/po/po130a?semester=HT2025&eventcode=07167)
 
 [Schedule HT 2025 / PO130A](https://cloud.timeedit.net/su/web/stud1/s.html?sid=3&type=courseevent&h=t&object=cevt_07167_HT2025&startdate=20250802&enddate=20260417&l=en&h2=2)
 
 [Literature List / PO130A](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
+
+----
+
+#### Text and language structure I, 7,5 credits
 
 ---
 
