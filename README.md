@@ -8,7 +8,7 @@ I Ladok kan du som student se information om dina studier, exempelvis vilka kurs
 
 [Ladok student](https://www.student.ladok.se/student/app/studentwebb/)
 
-## Athema
+## Athena
 
 Athena is the main collaboration platform for courses at Stockholm University. Please note that a few departments might be using other platforms such as iLearn. 
 
