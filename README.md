@@ -12,4 +12,6 @@ I Ladok kan du som student se information om dina studier, exempelvis vilka kurs
 
 Athena is the main collaboration platform for courses at Stockholm University. Please note that a few departments might be using other platforms such as iLearn. 
 
+All important information about your course along with information from the course instructors can be found on the Athena course page.
+
 [Athena](https://athena.itslearning.com/)
