@@ -63,17 +63,21 @@ All important information about your course along with information from the cour
 * Språkstruktur 1 & 2. Anteckningsunderlag. HT 2010 (kompendium på Athena)
 * Hedin, L.
 * Kompendium på Athena
-  
+
 ---
 
-* Grammatiskt ABC / recommended
+Recommended
+
+---
+
+* Grammatiskt ABC
 * Florby, G. & E. Fält. (2004 eller senare).
 * Uppsala: Scripta textproduktion.
 * [Adlibris link](https://www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353)
 
 ---
 
-* A Frequency Dictionary of Portuguese: Core Vocabulary for Learners / recommended
+* A Frequency Dictionary of Portuguese: Core Vocabulary for Learners 
 * Mark Davies & Ana Maria Preto-Bay. (2008).
 * London: Routledge.
 * Available as an e-book through the Stockholm University Library.
