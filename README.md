@@ -27,8 +27,12 @@ All important information about your course along with information from the cour
 
 [Schedule HT 2025 / PO130A](https://cloud.timeedit.net/su/web/stud1/s.html?sid=3&type=courseevent&h=t&object=cevt_07167_HT2025&startdate=20250802&enddate=20260417&l=en&h2=2)
 
+[Literature List / PO130A](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
+
 ### Portuguese as a World Language / PO1POV
 
 [Portuguese as a World Language / PO1POV](https://utbildning.su.se/english/education/course-catalogue/po/po1pov?semester=HT2025&eventcode=07168)
 
 [Schedule HT 2025 / PO1POV](https://cloud.timeedit.net/su/web/stud1/s.html?sid=3&type=courseevent&h=t&object=cevt_07168_HT2025&startdate=20250802&enddate=20260417&l=en&h2=2)
+
+[Literature List / PO1POV](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
