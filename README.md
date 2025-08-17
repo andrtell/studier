@@ -80,6 +80,24 @@ All important information about your course along with information from the cour
 * [website](http://coerll.utexas.edu/brazilpod/tafalado/)
 * University of Texas at Austin, prof. Orlando Kelm.
 ---
+#### Text and language structure II, 7,5 credits
+---
+* Português Já! Iniciação Ensino Português no Estrangeiro. Gramática e Vocabulário (Porto Editora, 2016).
+* ISBN: 978-972-0-17068-2
+* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)
+---
+* Português Já! Consolidação Ensino Português no Estrangeiro. Gramática e Vocabulário.
+* ISBN: 978-972-0-17069-9
+* [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)
+---
+* Fronteiras Perdidas
+* Agualusa, José Eduardo.
+* 2017
+* Lisboa: Quetzal Editores.
+* ISBN: 9789897223976
+* [Link](https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974)
+---
+
 
 ### Portuguese as a World Language / PO1POV
 
