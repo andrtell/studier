@@ -203,4 +203,16 @@ ISBN: 9789897223976
 
 Wook.pt / 16 € / [https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974](https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974)
 
+----
+Books for the courses: 
+
+* Portuguese as a World Language, 7,5 hp
+
 ---
+### Portuguese: a Linguistic Introduction.
+
+Azevedo, Milton M. 
+2005  
+Cambridge: Cambridge University Press. 
+
+_Selections in accordance with the teacher’s instruction_
