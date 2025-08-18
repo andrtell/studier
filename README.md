@@ -48,7 +48,7 @@ ISBN: 978-972-0-17068-2
 
 **Shop**
 
-[www.wook.pt/livro/portugues-ja-iniciacao/16896293 (2022)](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
+Outubro de 2022 / [www.wook.pt/livro/portugues-ja-iniciacao/16896293](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
 
 ---
 
@@ -58,7 +58,7 @@ ISBN: 978-972-0-17069-9
 
 **Shop**
 
-[www.wook.pt/livro/portugues-ja-consolidacao/16786243 (2022)](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
+Outubro de 2022 / [www.wook.pt/livro/portugues-ja-consolidacao/16786243](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
 
 ----
 * Text and language structure I  
