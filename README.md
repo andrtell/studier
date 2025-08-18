@@ -139,6 +139,10 @@ London: Routledge.
 
 _Available as an e-book through the Stockholm University Library._
 
+**Download**
+
+[Anna's archive](https://annas-archive.org/search?q=A+Frequency+Dictionary+of+Portuguese%3A+Core+Vocabulary+for+Learners)
+
 **Shop** 
 
 Amazon.com / 60 $ ~ 600 kr / [https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972](https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972)
