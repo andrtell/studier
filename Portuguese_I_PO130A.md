@@ -1,5 +1,9 @@
 # Portuguese I / PO130A
 
+## Schedule
+
+[Schedule Autumn 2025](https://cloud.timeedit.net/su/web/stud1/s.html?sid=3&type=courseevent&h=t&object=cevt_07167_HT2025&startdate=20250802&enddate=20260417&l=en&h2=2)
+
 ## Literature
 
 [Course literature List](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
