@@ -20,7 +20,7 @@ The course is split into 4 parts.
 |  3  | Text and Language Structure II   | 7.5 | 2025-11-03 | 2025-12-18 | 2026-01-07   |
 |  4  | Portuguese as a World Language   | 7.5 | 2025-09-04 | 2025-12-11 | 2026-01-14   |
 
-See the schedule below for exact dates. The dates above may be wrong or be subject to change.
+See the schedule below for up-to-date dates. The dates above may be wrong or be subject to change.
 
 ## Schedule
 
