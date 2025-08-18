@@ -57,19 +57,29 @@ ISBN: 978-972-0-17069-9
 [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
 
 ----
-#### 1. Text and language structure I, 7,5 credits
+* Text and language structure I  
+* Text and language structure II  
+
 ----
-* Portuguese - An Essential Grammar
-* Hutchinson, A. and J. Lloyd. (2003)
-* [Link](https://www.taylorfrancis.com/books/mono/10.4324/9781315307190/portuguese-amelia-hutchinson-cristina-sousa-janet-lloyd)
+Portuguese - An Essential Grammar  
+Hutchinson, A. and J. Lloyd.  
+2003
+
+[Link](https://www.taylorfrancis.com/books/mono/10.4324/9781315307190/portuguese-amelia-hutchinson-cristina-sousa-janet-lloyd)
+
 ---
-* Portugisisk Språklära 
-* Bjellerup, Sven. 1973 (1993)
-* [Link](https://www.studentlitteratur.se/kurslitteratur/sprakvetenskap-och-sprakdidaktik/ovriga-sprak/portugisisk-spraklara)
+Portugisisk Språklära  
+Bjellerup, Sven.  
+1973 (1993)
+
+[Link](https://www.studentlitteratur.se/kurslitteratur/sprakvetenskap-och-sprakdidaktik/ovriga-sprak/portugisisk-spraklara)
+
 ---
-* Språkstruktur 1 & 2. Anteckningsunderlag. HT 2010 (kompendium på Athena)
-* Hedin, L.
-* Kompendium på Athena
+Språkstruktur 1 & 2. Anteckningsunderlag.  
+Hedin, L.  
+HT 2010  
+Kompendium på Athena  
+
 ---
 #### Recommended
 ---
