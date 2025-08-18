@@ -216,6 +216,8 @@ Books for the courses:
 * Portuguese as a World Language, 7,5 hp
 
 ---
+<img src="images/portuguese_a_linguistic_introduction.jpeg" alt="Portugues Ja Inicacao book cover" height="200">
+
 ### Portuguese: a Linguistic Introduction.
 
 Azevedo, Milton M. 
