@@ -111,15 +111,19 @@ Kompendium på Athena (???)
 
 ### Grammatiskt ABC
 
+**Optional but recommended**
+
 Florby, G. & E. Fält.  
 2004 eller senare  
 Uppsala: Scripta textproduktion.  
 
-* [Adlibris link](https://www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353)
+Adlibris / 150 kr / [www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353](https://www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353)
 
 ---
 
 ### A Frequency Dictionary of Portuguese: Core Vocabulary for Learners 
+
+**Optional but recommended**
 
 Mark Davies & Ana Maria Preto-Bay.  
 2008  
