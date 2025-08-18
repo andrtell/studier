@@ -42,6 +42,7 @@ All important information about your course along with information from the cour
 ---
 
 Português Já! **Iniciação** Ensino Português no Estrangeiro. Gramática e Vocabulário  
+
 (Portugisiska nu! Initiering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 Porto Editora, 2016  
 ISBN: 978-972-0-17068-2  
@@ -53,6 +54,7 @@ Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-iniciacao/16896293](ht
 ---
 
 Português Já! **Consolidação** Ensino Português no Estrangeiro. Gramática e Vocabulário.  
+
 (Portugisiska nu! Konsolidering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 ISBN: 978-972-0-17069-9  
 
@@ -66,6 +68,7 @@ Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-consolidacao/16786243]
 
 ----
 Portuguese - An Essential Grammar  
+
 Hutchinson, A. and J. Lloyd.  
 2003
 
@@ -81,6 +84,7 @@ Akademibokhandeln / 586 kr / [https://www.akademibokhandeln.se/bok/portuguese/97
 
 ---
 Portugisisk Språklära  
+
 Bjellerup, Sven.  
 1973 (1993)
 
