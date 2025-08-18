@@ -162,6 +162,9 @@ University of Texas at Austin.
   
 ---
 
+
+<img src="images/fronteiras_perdidas.webp" alt="Fronteiras Predidas Book Cover" height="200">
+
 ### Fronteiras Perdidas
 
 **Optional (?) but recommended**
