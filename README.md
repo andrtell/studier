@@ -84,7 +84,12 @@ Portugisisk Språklära
 Bjellerup, Sven.  
 1973 (1993)
 
-[Link](https://www.studentlitteratur.se/kurslitteratur/sprakvetenskap-och-sprakdidaktik/ovriga-sprak/portugisisk-spraklara)
+
+**Shop**
+
+Studentlitteratur / 303 kr / [www.studentlitteratur.se/kurslitteratur/sprakvetenskap-och-sprakdidaktik/ovriga-sprak/portugisisk-spraklara](https://www.studentlitteratur.se/kurslitteratur/sprakvetenskap-och-sprakdidaktik/ovriga-sprak/portugisisk-spraklara)
+
+Bokus / 361 kr / [www.bokus.com/bok/9789144075235/portugisisk-spraklara/](https://www.bokus.com/bok/9789144075235/portugisisk-spraklara/)
 
 ---
 Språkstruktur 1 & 2. Anteckningsunderlag.  
