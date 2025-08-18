@@ -40,6 +40,7 @@ All important information about your course along with information from the cour
 * Oral proficiency and interaction I  
 
 ---
+<img src="images/portugues_ja_iniciacao.webp" alt="Portugues Ja Inicacao book cover" height="200">
 
 ### Português Já! _Iniciação_ Ensino Português no Estrangeiro. Gramática e Vocabulário  
 
@@ -52,6 +53,7 @@ ISBN: 978-972-0-17068-2
 Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-iniciacao/16896293](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
 
 ---
+<img src="images/portugues_ja_consolidacao.webp" alt="Portugues Ja consolidcao book cover" height="200">
 
 ### Português Já! _Consolidação_ Ensino Português no Estrangeiro. Gramática e Vocabulário.  
 
