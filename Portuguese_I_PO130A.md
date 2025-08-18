@@ -4,12 +4,14 @@
 
 [Course literature List](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
 
-### Book summary
+### Books summary
 
 ----
-* Text and language structure I  
-* Text and language structure II  
-* Oral proficiency and interaction I  
+Books for the courses:
+
+* Text and language structure I, 7.5 hp
+* Text and language structure II, 7.5 hp
+* Oral proficiency and interaction I, 7.5 hp
 
 ---
 <img src="images/portugues_ja_iniciacao.webp" alt="Portugues Ja Inicacao book cover" height="200">
@@ -41,8 +43,10 @@ ISBN: 978-972-0-17069-9
 Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-consolidacao/16786243](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
 
 ----
-* Text and language structure I  
-* Text and language structure II  
+Books for the courses:
+
+* Text and language structure I, 7.5 hp
+* Text and language structure II, 7.5 hp
 
 ----
 <img src="images/portuguese_an_essential_grammar.jpeg" alt="Portuguese and essential grammar book cover" height="200">
@@ -128,7 +132,9 @@ Akademibokhandeln / 829 kr (pocket) / [https://www.akademibokhandeln.se/bok/freq
 Adlibris / 2121 kr (inbunden) / [https://www.adlibris.com/sv/bok/a-frequency-dictionary-of-portuguese-9780415419963](https://www.adlibris.com/sv/bok/a-frequency-dictionary-of-portuguese-9780415419963)
 
 ----
-* Oral proficiency and interaction I  
+Books for the courses: 
+
+* Oral proficiency and interaction I, 7.5 hp
 
 ---
 
@@ -144,7 +150,9 @@ University of Texas at Austin.
 [http://coerll.utexas.edu/brazilpod/tafalado/](http://coerll.utexas.edu/brazilpod/tafalado/)
 
 ---
-* Text and language structure II
+Books for the courses: 
+
+* Text and language structure II, 7.5 hp
   
 ---
 
