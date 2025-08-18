@@ -10,12 +10,12 @@ The Stockholm university course catalog page for [Portuguese I / PO130A](https:/
 
 The course is split into 4 parts.
 
-| No  | Name | HP | Start | End | Duration |
-| --- | ---- | -- | ----- | --- | -------- |
-|  1  | ---- | -- | ----- | --- | -------- |
-|  2  | ---- | -- | ----- | --- | -------- |
-|  3  | ---- | -- | ----- | --- | -------- |
-|  4  | ---- | -- | ----- | --- | -------- |
+|  #  | Name                             | HP  | Start Date | End Date | Duration |
+| --- | -------------------------------- | --- | ---------- | -------- | -------- |
+|  1  | Text and Language Structure I    | 7.5 | ---------- | -------- | -------- |
+|  2  | Oral Proficiency and Interaction | 7.5 | ---------- | -------- | -------- |
+|  3  | Text and Language Structure II   | 7.5 | ---------- | -------- | -------- |
+|  4  | Portuguese as a World Language   | 7.5 | ---------- | -------- | -------- |
 
 ## Schedule
 
