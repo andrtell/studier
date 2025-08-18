@@ -37,7 +37,7 @@ All important information about your course along with information from the cour
 ---
 
 Português Já! **Iniciação** Ensino Português no Estrangeiro. Gramática e Vocabulário  
-(Portugisiska nu! Initiering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)
+(Portugisiska nu! Initiering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 Porto Editora, 2016  
 ISBN: 978-972-0-17068-2  
 [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
