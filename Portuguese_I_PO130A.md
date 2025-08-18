@@ -18,7 +18,7 @@ The course is split into 4 parts.
 |  1  | Text and Language Structure I    | 7.5 | 2025-09-02 | 2025-10-28  | 2025-11-21  |
 |  2  | Oral Proficiency and Interaction | 7.5 | 2025-11-04 | ----------- | ----------- |
 |  3  | Text and Language Structure II   | 7.5 | 2025-11-03 | 2025-12-18  | 2026-01-07  |
-|  4  | Portuguese as a World Language   | 7.5 | 2025-09-04 | 2026-01-14  | ----------- |
+|  4  | Portuguese as a World Language   | 7.5 | 2025-09-04 | 2025-12-11  | 2026-01-14  |
 
 See the schedule below for exact dates. The dates above may be wrong.
 
