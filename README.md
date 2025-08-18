@@ -117,6 +117,8 @@ Florby, G. & E. Fält.
 2004 eller senare  
 Uppsala: Scripta textproduktion.  
 
+**Shop**
+
 Adlibris / 150 kr / [www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353](https://www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-och-begrepp-for-effektiva-sprakstudier-9789189154353)
 
 ---
@@ -130,6 +132,8 @@ Mark Davies & Ana Maria Preto-Bay.
 London: Routledge.  
 
 _Available as an e-book through the Stockholm University Library._
+
+**Shop** 
 
 Amazon.com / 60 $ ~ 600 kr / [https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972](https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972)
 
