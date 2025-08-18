@@ -141,14 +141,22 @@ Akademibokhandeln / 829 kr (pocket) / [https://www.akademibokhandeln.se/bok/freq
 
 Adlibris / 2121 kr (inbunden) / [https://www.adlibris.com/sv/bok/a-frequency-dictionary-of-portuguese-9780415419963](https://www.adlibris.com/sv/bok/a-frequency-dictionary-of-portuguese-9780415419963)
 
+----
+* Oral proficiency and interaction I  
+
 ---
-#### 2. Oral proficiency and interaction I, 7,5 credits
----
-#### Recommended
----
-* Tá falado. Brazilian Portuguese Pronunciation for Speakers of Spanish,
-* [website](http://coerll.utexas.edu/brazilpod/tafalado/)
-* University of Texas at Austin, prof. Orlando Kelm.
+
+### Tá falado. Brazilian Portuguese Pronunciation for Speakers of Spanish
+
+**Optional (?) but recommended**
+
+Prof. Orlando Kelm.
+University of Texas at Austin.
+
+**Web**
+
+[http://coerll.utexas.edu/brazilpod/tafalado/](http://coerll.utexas.edu/brazilpod/tafalado/)
+
 ---
 #### 3. Text and language structure II, 7,5 credits
 ---
