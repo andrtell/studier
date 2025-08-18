@@ -60,6 +60,10 @@ Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-iniciacao/16896293](ht
 (Portugisiska nu! Konsolidering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 ISBN: 978-972-0-17069-9  
 
+**Download**
+
+[Anna's Archive](https://annas-archive.org/search?q=Portugu%C3%AAs+J%C3%A1%21+Consolida%C3%A7%C3%A3o+Ensino+Portugu%C3%AAs+no+Estrangeiro.+Gram%C3%A1tica+e+Vocabul%C3%A1rio.)
+
 **Shop**
 
 Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-consolidacao/16786243](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
