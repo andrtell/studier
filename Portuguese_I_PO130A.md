@@ -4,7 +4,7 @@
 
 [Athena](https://athena.itslearning.com/) has the course information from the instructors and teachers.
 
-
+The Stockholm university course catalog page for [Portuguese I / PO130A](https://utbildning.su.se/english/education/course-catalogue/po/po130a?semester=HT2025&eventcode=07167) gives an overview.
 
 ## Schedule
 
