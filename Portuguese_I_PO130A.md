@@ -1,5 +1,9 @@
 # Portuguese I / PO130A
 
+[Ladok](https://www.student.ladok.se/student/app/studentwebb/) is used to register on the course, **Sign up for exams** and view grades.
+
+
+
 ## Schedule
 
 [Autumn 2025](https://cloud.timeedit.net/su/web/stud1/s.html?sid=3&type=courseevent&h=t&object=cevt_07167_HT2025&startdate=20250802&enddate=20260417&l=en&h2=2)
