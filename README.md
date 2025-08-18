@@ -32,8 +32,13 @@ All important information about your course along with information from the cour
 
 [Literature List / PO130A](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
 
+#### Böcker. 
+
 ----
-#### Böcker. Delkurs 1-3.
+* Text and language structure I  
+* Text and language structure II  
+* Oral proficiency and interaction I  
+
 ---
 
 Português Já! **Iniciação** Ensino Português no Estrangeiro. Gramática e Vocabulário  
