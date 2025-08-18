@@ -46,6 +46,8 @@ Português Já! **Iniciação** Ensino Português no Estrangeiro. Gramática e V
 Porto Editora, 2016  
 ISBN: 978-972-0-17068-2  
 
+**Shop**
+
 [www.wook.pt/livro/portugues-ja-iniciacao/16896293 (2022)](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
 
 ---
@@ -53,6 +55,8 @@ ISBN: 978-972-0-17068-2
 Português Já! **Consolidação** Ensino Português no Estrangeiro. Gramática e Vocabulário.  
 (Portugisiska nu! Konsolidering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 ISBN: 978-972-0-17069-9  
+
+**Shop**
 
 [www.wook.pt/livro/portugues-ja-consolidacao/16786243 (2022)](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
 
@@ -64,6 +68,12 @@ ISBN: 978-972-0-17069-9
 Portuguese - An Essential Grammar  
 Hutchinson, A. and J. Lloyd.  
 2003
+
+**Download**
+
+[ia904502.us.archive.org/21/items/PortugueseEssentialGrammar/Portuguese%20essential%20grammar.pdf](https://ia904502.us.archive.org/21/items/PortugueseEssentialGrammar/Portuguese%20essential%20grammar.pdf)
+
+**Shop**
 
 [Link](https://www.taylorfrancis.com/books/mono/10.4324/9781315307190/portuguese-amelia-hutchinson-cristina-sousa-janet-lloyd)
 
