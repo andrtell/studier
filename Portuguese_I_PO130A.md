@@ -9,6 +9,7 @@ The Stockholm university course catalog page for [Portuguese I / PO130A](https:/
 ## Program
 
 A lecture and introduction to the course is given on _2025-09-01_.
+
 A lecture and introduction to the Language Studio is given on _2025-09-02_.
 
 The course is split into 4 parts.
