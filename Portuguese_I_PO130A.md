@@ -4,7 +4,7 @@
 
 [Course literature List](https://albatross.it.su.se/api/education/literaturelist/pdf/PO130A/HT2025/45946/en)
 
-### Books summary
+### Books overview
 
 ----
 Books for the courses:
