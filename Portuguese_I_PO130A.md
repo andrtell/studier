@@ -13,14 +13,14 @@ A lecture and introduction to the Language Studio is given on _2025-09-02_.
 
 The course is split into 4 parts.
 
-|  #  | Name                             | HP  | Start Date | Exam 1 Date | Exam 2 Date |
-| --- | -------------------------------- | --- | ---------- | ----------- | ----------- |
-|  1  | Text and Language Structure I    | 7.5 | 2025-09-02 | 2025-10-28  | 2025-11-21  |
-|  2  | Oral Proficiency and Interaction | 7.5 | 2025-11-04 | ----------- | ----------- |
-|  3  | Text and Language Structure II   | 7.5 | 2025-11-03 | 2025-12-18  | 2026-01-07  |
-|  4  | Portuguese as a World Language   | 7.5 | 2025-09-04 | 2025-12-11  | 2026-01-14  |
+|  #  | Name                             | HP  | Start Date | Exam Date  | Re-Exam Date |
+| --- | -------------------------------- | --- | ---------- | ---------- | ------------ |
+|  1  | Text and Language Structure I    | 7.5 | 2025-09-02 | 2025-10-28 | 2025-11-21   |
+|  2  | Oral Proficiency and Interaction | 7.5 | 2025-11-04 | ---------- | ------------ |
+|  3  | Text and Language Structure II   | 7.5 | 2025-11-03 | 2025-12-18 | 2026-01-07   |
+|  4  | Portuguese as a World Language   | 7.5 | 2025-09-04 | 2025-12-11 | 2026-01-14   |
 
-See the schedule below for exact dates. The dates above may be wrong.
+See the schedule below for exact dates. The dates above may be wrong or be subject to change.
 
 ## Schedule
 
