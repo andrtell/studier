@@ -1,6 +1,6 @@
 # Portuguese I / PO130A
 
-[Ladok](https://www.student.ladok.se/student/app/studentwebb/) is used to register on the course, **Sign up for exams** and view grades.
+[Ladok](https://www.student.ladok.se/student/app/studentwebb/) is used to register for the course, **sign up for exams** and view grades.
 
 [Athena](https://athena.itslearning.com/) has the course information from the instructors and teachers.
 
