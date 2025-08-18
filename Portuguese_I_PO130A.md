@@ -10,6 +10,12 @@ The Stockholm university course catalog page for [Portuguese I / PO130A](https:/
 
 The course is split into 4 parts.
 
+| No  | Name | HP | Start | End | Duration |
+| --- | ---- | -- | ----- | --- | -------- |
+|  1  | ---- | -- | ----- | --- | -------- |
+|  2  | ---- | -- | ----- | --- | -------- |
+|  3  | ---- | -- | ----- | --- | -------- |
+|  4  | ---- | -- | ----- | --- | -------- |
 
 ## Schedule
 
