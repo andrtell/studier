@@ -46,7 +46,7 @@ Português Já! **Iniciação** Ensino Português no Estrangeiro. Gramática e V
 Porto Editora, 2016  
 ISBN: 978-972-0-17068-2  
 
-[Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
+[www.wook.pt/livro/portugues-ja-iniciacao/16896293 (2022)](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
 
 ---
 
