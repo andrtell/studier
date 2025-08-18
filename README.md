@@ -67,6 +67,7 @@ Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-consolidacao/16786243]
 * Text and language structure II  
 
 ----
+<img src="images/portuguese_an_essential_grammar.jpeg" alt="Portuguese and essential grammar book cover" height="200">
 
 ### Portuguese - An Essential Grammar  
 
@@ -84,6 +85,7 @@ Adlibris / 526 kr / [https://www.adlibris.com/sv/bok/portuguese-9781138234352](h
 Akademibokhandeln / 586 kr / [https://www.akademibokhandeln.se/bok/portuguese/9781138234352](https://www.akademibokhandeln.se/bok/portuguese/9781138234352)
 
 ---
+<img src="images/portugisisk_spraklara.jpeg" alt="Grammatiskt ABC book cover" height="200">
 
 ### Portugisisk Språklära  
 
