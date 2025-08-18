@@ -184,6 +184,10 @@ Agualusa, José Eduardo.
 Lisboa: Quetzal Editores.  
 ISBN: 9789897223976  
 
+**Download**
+
+[Anna's Archive](https://annas-archive.org/search?index=&page=1&sort=&display=&q=Fronteiras+Perdidas)
+
 **Shop**
 
 Wook.pt / 16 € / [https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974](https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974)
