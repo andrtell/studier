@@ -6,6 +6,11 @@ The Stockholm university course catalog page for [Portuguese I / PO130A](https:/
 
 [Athena](https://athena.itslearning.com/) has the course information from the instructors and teachers.
 
+## Program
+
+The course is split into 4 parts.
+
+
 ## Schedule
 
 [Autumn 2025](https://cloud.timeedit.net/su/web/stud1/s.html?sid=3&type=courseevent&h=t&object=cevt_07167_HT2025&startdate=20250802&enddate=20260417&l=en&h2=2)
