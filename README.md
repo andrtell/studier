@@ -131,7 +131,11 @@ London: Routledge.
 
 _Available as an e-book through the Stockholm University Library._
 
-[Amazon link](https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972)
+Amazon.com / 60 $ ~ 600 kr / [https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972](https://www.amazon.com/Frequency-Dictionary-Portuguese-Routledge-Dictionaries/dp/0415419972)
+
+Akademibokhandeln / 829 kr (pocket) / [https://www.akademibokhandeln.se/bok/frequency-dictionary-of-portuguese/9780415419970](https://www.akademibokhandeln.se/bok/frequency-dictionary-of-portuguese/9780415419970)
+
+Adlibris / 2121 kr (inbunden) / [https://www.adlibris.com/sv/bok/a-frequency-dictionary-of-portuguese-9780415419963](https://www.adlibris.com/sv/bok/a-frequency-dictionary-of-portuguese-9780415419963)
 
 ---
 #### 2. Oral proficiency and interaction I, 7,5 credits
