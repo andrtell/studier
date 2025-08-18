@@ -54,7 +54,7 @@ Português Já! **Consolidação** Ensino Português no Estrangeiro. Gramática 
 (Portugisiska nu! Konsolidering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 ISBN: 978-972-0-17069-9  
 
-[Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
+[www.wook.pt/livro/portugues-ja-consolidacao/16786243 (2022)](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
 
 ----
 * Text and language structure I  
