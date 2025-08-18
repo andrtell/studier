@@ -48,7 +48,7 @@ ISBN: 978-972-0-17068-2
 
 **Shop**
 
-Outubro de 2022 / [www.wook.pt/livro/portugues-ja-iniciacao/16896293](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
+Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-iniciacao/16896293](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
 
 ---
 
@@ -58,7 +58,7 @@ ISBN: 978-972-0-17069-9
 
 **Shop**
 
-Outubro de 2022 / [www.wook.pt/livro/portugues-ja-consolidacao/16786243](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
+Wook.pt / 12 € / 2022 / [www.wook.pt/livro/portugues-ja-consolidacao/16786243](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
 
 ----
 * Text and language structure I  
@@ -75,7 +75,9 @@ Hutchinson, A. and J. Lloyd.
 
 **Shop**
 
-[Link](https://www.taylorfrancis.com/books/mono/10.4324/9781315307190/portuguese-amelia-hutchinson-cristina-sousa-janet-lloyd)
+Adlibris / 526 kr / [https://www.adlibris.com/sv/bok/portuguese-9781138234352](https://www.adlibris.com/sv/bok/portuguese-9781138234352)
+
+Akademibokhandeln / 586 kr / [https://www.akademibokhandeln.se/bok/portuguese/9781138234352](https://www.akademibokhandeln.se/bok/portuguese/9781138234352)
 
 ---
 Portugisisk Språklära  
