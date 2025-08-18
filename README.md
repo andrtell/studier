@@ -45,6 +45,7 @@ Português Já! **Iniciação** Ensino Português no Estrangeiro. Gramática e V
 (Portugisiska nu! Initiering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 Porto Editora, 2016  
 ISBN: 978-972-0-17068-2  
+
 [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-iniciacao/16896293)  
 
 ---
@@ -52,6 +53,7 @@ ISBN: 978-972-0-17068-2
 Português Já! **Consolidação** Ensino Português no Estrangeiro. Gramática e Vocabulário.  
 (Portugisiska nu! Konsolidering: Undervisning i portugisiska utomlands. Grammatik och ordförråd)  
 ISBN: 978-972-0-17069-9  
+
 [Link / 2022 Edition / Different ISBN](https://www.wook.pt/livro/portugues-ja-consolidacao/16786243)  
 
 ----
