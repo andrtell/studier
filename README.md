@@ -158,14 +158,23 @@ University of Texas at Austin.
 [http://coerll.utexas.edu/brazilpod/tafalado/](http://coerll.utexas.edu/brazilpod/tafalado/)
 
 ---
-#### 3. Text and language structure II, 7,5 credits
+* Text and language structure II
+  
 ---
-* Fronteiras Perdidas
-* Agualusa, José Eduardo.
-* 2017
-* Lisboa: Quetzal Editores.
-* ISBN: 9789897223976
-* [Link](https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974)
+
+### Fronteiras Perdidas
+
+**Optional (?) but recommended**
+
+Agualusa, José Eduardo.  
+2017  
+Lisboa: Quetzal Editores.  
+ISBN: 9789897223976  
+
+**Shop**
+
+Wook.pt / 16 € / [https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974](https://www.wook.pt/livro/fronteiras-perdidas-jose-eduardo-agualusa/19336974)
+
 ---
 
 
