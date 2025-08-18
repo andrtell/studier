@@ -123,6 +123,8 @@ Adlibris / 150 kr / [www.adlibris.com/sv/bok/grammatiskt-abc-grammatiska-termer-
 
 ---
 
+<img src="images/frequency_dictionary_of_portuguese.jpeg" alt="Frequency dictionary of portuguese book Cover" height="200">
+
 ### A Frequency Dictionary of Portuguese: Core Vocabulary for Learners 
 
 **Optional (?) but recommended**
