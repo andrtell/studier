@@ -226,6 +226,10 @@ Cambridge: Cambridge University Press.
 
 _Selections in accordance with the teacher’s instruction_
 
+**Download**
+
+[Anna's Archive](https://annas-archive.org/search?q=Portuguese%3A+a+Linguistic+Introduction.)
+
 **Shop**
 
 Bokus / 577 kr / [https://www.bokus.com/bok/9780521805155/portuguese/](https://www.bokus.com/bok/9780521805155/portuguese/)
