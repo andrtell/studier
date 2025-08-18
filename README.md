@@ -98,7 +98,6 @@ Studentlitteratur / 303 kr / [www.studentlitteratur.se/kurslitteratur/sprakveten
 Bokus / 361 kr / [www.bokus.com/bok/9789144075235/portugisisk-spraklara/](https://www.bokus.com/bok/9789144075235/portugisisk-spraklara/)
 
 ---
-
 ### Språkstruktur 1 & 2. 
 
 Anteckningsunderlag.  
@@ -108,6 +107,7 @@ HT 2010
 Kompendium på Athena (???)
 
 ---
+<img src="images/grammatiskt_abc.webp" alt="Grammatiskt ABC book cover" height="200">
 
 ### Grammatiskt ABC
 
