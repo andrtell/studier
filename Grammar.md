@@ -25,20 +25,20 @@
 |              | Genitiv    | ägande  | flickans |
 
 
-|  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Exempel             |
-| ------------ | --------- | --------- | ------------- | ---------- | ------------------- |
-|              |  Singular | Utrum     | Obestämd      | Grundform  | en hund, en familj  |
-|              |           |           | Bestämd       |            | hunden, familjen    |
-|              |           |           |               | Genitiv    | hundens, mannens    |
-|              |           | Neutrum   | Obestämd      | Grundform  | ett hus, ett fartyg |
-|              |           |           | Bestämd       |            | huset, fartyget     |
-|              |           |           |               | Genitiv    | husets, fartygets   |
-|              |  Plural   | Utrum     | Obestämd      | Grundform  | barn, flera flickor |
-|              |           |           | Bestämd       |            | barnen, flickorna   |
-|              |           |           |               | Genitiv    | barnens, flickornas |
-|              |           | Neutrum   | Obestämd      | Grundform  | flera hus, fartyg   |
-|              |           |           | Bestämd       |            | husen, fartygen     |
-|              |           |           |               | Genitiv    | husens, fartygens   |
+|  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Artikel | Exempel             |
+| ------------ | --------- | --------- | ------------- | ---------- | --------| ------------------- |
+|              |  Singular | Utrum     | Obestämd      | Grundform  | en      | en hund, en familj  |
+|              |           |           | Bestämd       |            |         | hunden, familjen    |
+|              |           |           |               | Genitiv    |         | hundens, mannens    |
+|              |           | Neutrum   | Obestämd      | Grundform  | ett     | ett hus, ett fartyg |
+|              |           |           | Bestämd       |            |         | huset, fartyget     |
+|              |           |           |               | Genitiv    |         | husets, fartygets   |
+|              |  Plural   | Utrum     | Obestämd      | Grundform  |         | barn, flera flickor |
+|              |           |           | Bestämd       |            |         | barnen, flickorna   |
+|              |           |           |               | Genitiv    |         | barnens, flickornas |
+|              |           | Neutrum   | Obestämd      | Grundform  |         | flera hus, fartyg   |
+|              |           |           | Bestämd       |            |         | husen, fartygen     |
+|              |           |           |               | Genitiv    |         | husens, fartygens   |
 
 # Portugues
 
