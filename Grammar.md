@@ -42,7 +42,7 @@
 
 # Portugues
 
-|  Substantiv  | Genus      |         | Exempel        |
-| ------------ | ---------- | ------- | -------------- |
-|              | Maskulin   |         | en mus, musen  |
-|              | Feminin    |         | ett hus, huset |
+|  Substantiv  | Genus      | Exempel                                |
+| ------------ | ---------- | -------------------------------------- |
+|              | Maskulin   | um jogo, uns jogos, o jogo, os jogos   |
+|              | Feminin    | uma mesa, umas mesas, a mesa, as mesas |
