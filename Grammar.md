@@ -21,3 +21,32 @@
 |              |             | Utrum     | (n-genus)     |            | mus-en              |
 |              |             | Neutrum   | (t-genus)     |            | hus-et              |
 
+
+|  Substantiv  |             |           |       |          |       |          | Exempel             |
+| ------------ | ----------- | --------- | ----- | -------- | ----- | -------- | ------------------- |
+|              |  Egennamn   |           |       |          |       |          |                     |
+|              |  Kollektiva |           |       |          |       |          |                     |
+|              |  Konkreta   |           |       |          |       |          |                     |
+|              |  Abstrakta  |           |       |          |       |          |                     |
+|              |             |           |       |          |       |          |                     |
+|              |  Numerus    |           | Genus |          | Form  |          |                     |
+|              |             | Singular  |       | Maskulin |       | Obestämd |                     |
+|              |             |           |       |          |       |          |                     |
+|              |             |           |       |          |       | Bestämd  |                     |
+|              |             |           |       |          |       |          |                     |
+|              |             | Singular  |       | Feminin  |       | Obestämd |                     |
+|              |             |           |       |          |       |          |                     |
+|              |             |           |       |          |       | Bestämd  |                     |
+|              |             |           |       |          |       |          |                     |
+|              |             | Plural    |       | Maskulin |       | Obestämd |                     |
+|              |             |           |       |          |       |          |                     |
+|              |             |           |       |          |       | Bestämd  |                     |
+|              |             |           |       |          |       |          |                     |
+|              |             | Plural    |       | Feminin  |       | Obestämd |                     |
+|              |             |           |       |          |       |          |                     |
+|              |             |           |       |          |       | Bestämd  |                     |
+
+
+
+
+
