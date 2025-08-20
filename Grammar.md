@@ -50,15 +50,15 @@
 
 |  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Artikel | Exempel             |
 | ------------ | --------- | --------- | ------------- | ---------- | ------- | ------------------- |
-|              |  Singular | Maskulin  | Obestämd      | Grundform  | um      |                     |
-|              |           |           | Bestämd       |            | o       |                     |
+|              |  Singular | Maskulin  | Obestämd      | Grundform  | um      | um jardim           |
+|              |           |           | Bestämd       |            | o       | o sol               |
 |              |           |           |               | Genitiv    |         |                     |
-|              |           | Feminin   | Obestämd      | Grundform  | uma     |                     |
-|              |           |           | Bestämd       |            | a       |                     |
+|              |           | Feminin   | Obestämd      | Grundform  | uma     | uma escova          |
+|              |           |           | Bestämd       |            | a       | a colega            |
 |              |           |           |               | Genitiv    |         |                     |
-|              |  Plural   | Maskulin  | Obestämd      | Grundform  | uns     |                     |
-|              |           |           | Bestämd       |            | os      |                     |
+|              |  Plural   | Maskulin  | Obestämd      | Grundform  | uns     | uns discos          |
+|              |           |           | Bestämd       |            | os      | os ovos             |
 |              |           |           |               | Genitiv    |         |                     |
-|              |           | Feminin   | Obestämd      | Grundform  | umas    |                     |
-|              |           |           | Bestämd       |            | as      |                     |
+|              |           | Feminin   | Obestämd      | Grundform  | umas    | umas praias         |
+|              |           |           | Bestämd       |            | as      | as luzes            |
 |              |           |           |               | Genitiv    |         |                     |
