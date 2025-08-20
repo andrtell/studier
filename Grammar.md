@@ -13,10 +13,10 @@
 |              | Plural     | flickor       |
 |              | Plural     | möss (omljud) |
 
-|  Substantiv  | Genus      |         | Exempel        |
-| ------------ | ---------- | ------- | -------------- |
-|              | Utrum      | n-genus | en mus, musen  |
-|              | Neutrum    | t-genus | ett hus, huset |
+|  Substantiv  | Genus      |         | Exempel                   |
+| ------------ | ---------- | ------- | ------------------------- |
+|              | Utrum      | n-genus | en mus, flera möss, musen |
+|              | Neutrum    | t-genus | ett hus, flera hus, huset |
 
 
 |  Substantiv  | Kasus      |         | Exempel  |
@@ -41,3 +41,8 @@
 |              |           |           |               | Genitiv    | husens, fartygens   |
 
 # Portugues
+
+|  Substantiv  | Genus      |         | Exempel        |
+| ------------ | ---------- | ------- | -------------- |
+|              | Maskulin   |         | en mus, musen  |
+|              | Feminin    |         | ett hus, huset |
