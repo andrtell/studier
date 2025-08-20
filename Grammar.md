@@ -1,3 +1,28 @@
+
+|  Substantiv  | Klass      | Exempel             |
+| ------------ | ---------- | ------------------- |
+|              | Egennamn   | Andreas, New York   |
+|              | Kollektiva | familj, grupp, lag  |
+|              | Konkreta   | hund, himmel        |
+|              | Abstrakta  | kärlek, sorg, tanke |
+
+|  Substantiv  | Numerus    |         | 
+| ------------ | ---------- | ------- |
+|              | Singular   | pojke   |
+|              | Plural     | flickor |
+
+|  Substantiv  | Genus      |         | Exempel        |
+| ------------ | ---------- | ------- | -------------- |
+|              | Utrum      | n-genus | en mus, musen  |
+|              | Neutrum    | t-genus | ett hus, huset |
+
+
+|  Substantiv  | Kasus      |         | Exempel  |
+| ------------ | ---------- | ------- | ---------|
+|              | Grundform  |         | flicka   |
+|              | Genitiv    | ägande  | flickans |
+
+
 |  Substantiv  |             |           |               |            | Exempel             |
 | ------------ | ----------- | --------- | ------------- | ---------- | ------------------- |
 |              |  Egennamn   |           |               |            | Andreas, New York   |
