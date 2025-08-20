@@ -48,17 +48,17 @@
 |              | Feminin    | uma mesa, umas mesas, a mesa, as mesas |
 
 
-|  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Exempel             |
-| ------------ | --------- | --------- | ------------- | ---------- | ------------------- |
-|              |  Singular | Maskulin  | Obestämd      | Grundform  |                     |
-|              |           |           | Bestämd       |            |                     |
-|              |           |           |               | Genitiv    |                     |
-|              |           | Feminin   | Obestämd      | Grundform  |                     |
-|              |           |           | Bestämd       |            |                     |
-|              |           |           |               | Genitiv    |                     |
-|              |  Plural   | Maskulin  | Obestämd      | Grundform  |                     |
-|              |           |           | Bestämd       |            |                     |
-|              |           |           |               | Genitiv    |                     |
-|              |           | Feminin   | Obestämd      | Grundform  |                     |
-|              |           |           | Bestämd       |            |                     |
-|              |           |           |               | Genitiv    |                     |
+|  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Artikel | Exempel             |
+| ------------ | --------- | --------- | ------------- | ---------- | ------- | ------------------- |
+|              |  Singular | Maskulin  | Obestämd      | Grundform  | um      |                     |
+|              |           |           | Bestämd       |            | o       |                     |
+|              |           |           |               | Genitiv    |         |                     |
+|              |           | Feminin   | Obestämd      | Grundform  | uma     |                     |
+|              |           |           | Bestämd       |            | a       |                     |
+|              |           |           |               | Genitiv    |         |                     |
+|              |  Plural   | Maskulin  | Obestämd      | Grundform  | uns     |                     |
+|              |           |           | Bestämd       |            | os      |                     |
+|              |           |           |               | Genitiv    |         |                     |
+|              |           | Feminin   | Obestämd      | Grundform  | umas    |                     |
+|              |           |           | Bestämd       |            | as      |                     |
+|              |           |           |               | Genitiv    |         |                     |
