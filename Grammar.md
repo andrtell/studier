@@ -16,7 +16,7 @@
 |              |             |           |               |            |                     |
 |              |  Kasus      |           |               |            |                     |
 |              |             | Grundform |               |            | hund, flickorna     |
-|              |             | Genitiv   |               |            | hund-s, flickorna-s |
+|              |             | Genitiv   | (ägande)      |            | hund-s, flickorna-s |
 |              |  Genus      |           |               |            |                     |
 |              |             | Utrum     | (n-genus)     |            | mus-en              |
 |              |             | Neutrum   | (t-genus)     |            | hus-et              |
