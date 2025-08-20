@@ -46,3 +46,19 @@
 | ------------ | ---------- | -------------------------------------- |
 |              | Maskulin   | um jogo, uns jogos, o jogo, os jogos   |
 |              | Feminin    | uma mesa, umas mesas, a mesa, as mesas |
+
+
+|  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Exempel             |
+| ------------ | --------- | --------- | ------------- | ---------- | ------------------- |
+|              |  Singular | Maskulin  | Obestämd      | Grundform  |                     |
+|              |           |           | Bestämd       |            |                     |
+|              |           |           |               | Genitiv    |                     |
+|              |           | Feminin   | Obestämd      | Grundform  |                     |
+|              |           |           | Bestämd       |            |                     |
+|              |           |           |               | Genitiv    |                     |
+|              |  Plural   | Maskulin  | Obestämd      | Grundform  |                     |
+|              |           |           | Bestämd       |            |                     |
+|              |           |           |               | Genitiv    |                     |
+|              |           | Feminin   | Obestämd      | Grundform  |                     |
+|              |           |           | Bestämd       |            |                     |
+|              |           |           |               | Genitiv    |                     |
