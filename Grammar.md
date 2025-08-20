@@ -8,16 +8,16 @@
 |              |  Numerus    |           |               |            |                     |
 |              |             | Singular  |               |            |                     |
 |              |             |           | Obestämd form |            | mus, hus            |
-|              |             |           | Bestämd form  |            | musen, huset        |
+|              |             |           | Bestämd form  |            | mus-en, hus-et      |
 |              |             | Plural    |               |            |                     |
 |              |             |           | Omljud        |            | möss                |
 |              |             |           | Obestämd form |            | möss, hus           |
-|              |             |           | Bestämd form  |            | mössen, husen       |
+|              |             |           | Bestämd form  |            | mösse-n, huse-n     |
 |              |             |           |               |            |                     |
 |              |  Kasus      |           |               |            |                     |
-|              |             | Grundform |               |            | flicka              |
-|              |             | Genitiv   |               |            | flickans            |
+|              |             | Grundform |               |            | hund, flickorna     |
+|              |             | Genitiv   |               |            | hund-s, flickorna-s |
 |              |  Genus      |           |               |            |                     |
-|              |             | Utrum     |               |            | mus -en             |
-|              |             | Neutrum   |               |            | hus -et             |
+|              |             | Utrum     |               |            | mus-en              |
+|              |             | Neutrum   |               |            | hus-et              |
 
