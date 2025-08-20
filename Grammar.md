@@ -1,3 +1,4 @@
+# Svenska
 
 |  Substantiv  | Klass      | Exempel             |
 | ------------ | ---------- | ------------------- |
@@ -6,10 +7,11 @@
 |              | Konkreta   | hund, himmel        |
 |              | Abstrakta  | kärlek, sorg, tanke |
 
-|  Substantiv  | Numerus    |         | 
-| ------------ | ---------- | ------- |
-|              | Singular   | pojke   |
-|              | Plural     | flickor |
+|  Substantiv  | Numerus    |               | 
+| ------------ | ---------- | ------------- |
+|              | Singular   | pojke         |
+|              | Plural     | flickor       |
+|              | Plural     | möss (omljud) |
 
 |  Substantiv  | Genus      |         | Exempel        |
 | ------------ | ---------- | ------- | -------------- |
@@ -23,55 +25,19 @@
 |              | Genitiv    | ägande  | flickans |
 
 
-|  Substantiv  |             |           |               |            | Exempel             |
-| ------------ | ----------- | --------- | ------------- | ---------- | ------------------- |
-|              |  Egennamn   |           |               |            | Andreas, New York   |
-|              |  Kollektiva |           |               |            | familj, grupp, lag  |
-|              |  Konkreta   |           |               |            | hund, himmel        |
-|              |  Abstrakta  |           |               |            | kärlek, sorg, tanke |
-|              |             |           |               |            |                     |
-|              |  Numerus    |           |               |            |                     |
-|              |             | Singular  |               |            |                     |
-|              |             |           | Obestämd form |            | mus, hus            |
-|              |             |           | Bestämd form  |            | mus-en, hus-et      |
-|              |             | Plural    |               |            |                     |
-|              |             |           | Omljud        |            | möss                |
-|              |             |           | Obestämd form |            | möss, hus           |
-|              |             |           | Bestämd form  |            | mösse-n, huse-n     |
-|              |             |           |               |            |                     |
-|              |  Kasus      |           |               |            |                     |
-|              |             | Grundform |               |            | hund, flickorna     |
-|              |             | Genitiv   | (ägande)      |            | hund-s, flickorna-s |
-|              |  Genus      |           |               |            |                     |
-|              |             | Utrum     | (n-genus)     |            | mus-en              |
-|              |             | Neutrum   | (t-genus)     |            | hus-et              |
+|  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Exempel             |
+| ------------ | --------- | --------- | ------------- | ---------- | ------------------- |
+|              |  Singular | Utrum     | Obestämd      | Grundform  | en hund, en familj  |
+|              |           |           | Bestämd       |            | hunden, familjen    |
+|              |           |           |               | Genitiv    | hundens, mannens    |
+|              |           | Neutrum   | Obestämd      | Grundform  | ett hus, ett fartyg |
+|              |           |           | Bestämd       |            | huset, fartyget     |
+|              |           |           |               | Genitiv    | husets, fartygets   |
+|              |  Plural   | Utrum     | Obestämd      | Grundform  | barn, flera flickor |
+|              |           |           | Bestämd       |            | barnen, flickorna   |
+|              |           |           |               | Genitiv    | barnens, flickornas |
+|              |           | Neutrum   | Obestämd      | Grundform  | flera hus, fartyg   |
+|              |           |           | Bestämd       |            | husen, fartygen     |
+|              |           |           |               | Genitiv    | husens, fartygens   |
 
-
-|  Substantiv  |             |           |       |          |       |          | Exempel             |
-| ------------ | ----------- | --------- | ----- | -------- | ----- | -------- | ------------------- |
-|              |  Egennamn   |           |       |          |       |          |                     |
-|              |  Kollektiva |           |       |          |       |          |                     |
-|              |  Konkreta   |           |       |          |       |          |                     |
-|              |  Abstrakta  |           |       |          |       |          |                     |
-|              |             |           |       |          |       |          |                     |
-|              |  Numerus    |           | Genus |          | Form  |          |                     |
-|              |             | Singular  |       | Maskulin |       | Obestämd |                     |
-|              |             |           |       |          |       |          |                     |
-|              |             |           |       |          |       | Bestämd  |                     |
-|              |             |           |       |          |       |          |                     |
-|              |             | Singular  |       | Feminin  |       | Obestämd |                     |
-|              |             |           |       |          |       |          |                     |
-|              |             |           |       |          |       | Bestämd  |                     |
-|              |             |           |       |          |       |          |                     |
-|              |             | Plural    |       | Maskulin |       | Obestämd |                     |
-|              |             |           |       |          |       |          |                     |
-|              |             |           |       |          |       | Bestämd  |                     |
-|              |             |           |       |          |       |          |                     |
-|              |             | Plural    |       | Feminin  |       | Obestämd |                     |
-|              |             |           |       |          |       |          |                     |
-|              |             |           |       |          |       | Bestämd  |                     |
-
-
-
-
-
+# Portugues
