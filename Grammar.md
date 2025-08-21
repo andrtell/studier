@@ -148,25 +148,28 @@
 
 ## Plural
 
-|  Substantiv  | Singular       | Slutar på      |  Regel                                   | Plural         | Slutar på     |  
-| ------------ | -------------- | -------------- | ---------------------------------------- | -------------- | ------------- |
-|              | a mesa         | **-vokal**     | **-vokal** _blir_ **-vokal -s**          | as mesas       | **-vokal -s** |
-|              |                |                |                                          |                |               |
-|              |                | **-konsonant** | **-konsonant** _blir_ **-konsonant -es** |                |               |
-|              | o liquen       | **-n**         | **-n** _blir_ **-n -es**                 | os liquenes    | **-nes**      |
-|              | o professor    | **-r**         | **-r** _blir_ **-r -es**                 | os professores | **-res**      |
-|              | o país         | **-s**         | **-s** _blir_ **-s -es**                 | os países      | **-ses**      |
-|              | a luz          | **-z**         | **-z** _blir_ **-z -es**                 | as luzes       | **-zes**      |
-|              |                |                |                                          |                |               |
-|              | a ambição      | **-ão**        | **-aõ**  _blir_ **-ões**                 | as ambições    | **-ões**      |
-|              | o pão          | **-ão**        | **-aõ**  _blir_ **-ães**                 | os pães        | **-ães**      |
-|              | a mão          | **-ão**        | **-aõ**  _blir_ **-ãos**                 | as mãos        | **-ãos**      |
-|              |                |                |                                          |                |               |
-|              | o som          | **-m**         | **-m**  _blir_ **-ns**                   | os sons        | **-ns**       |
-|              |                |                |                                          |                |               |
-|              | o animal       | **-al**        | **-al**  _blir_ **-ais**                 | os animais     | **-ais**      |
-|              | o hotel        | **-el**        | **-el**  _blir_ **-eis**                 | os hotéis      | **-eis**      |
-|              | o sol          | **-ol**        | **-ol**  _blir_ **-ois**                 | os sóis        | **-ois**      |
-|              | o azul         | **-ul**        | **-ul**  _blir_ **-uis**                 | os azuis       | **-uis**      |
+|  Substantiv  | Singular       | Slutar på      |  Regel                                    | Plural         | Slutar på     |  
+| ------------ | -------------- | -------------- | ----------------------------------------- | -------------- | ------------- |
+|              | a mesa         | **-vokal**     | **-vokal** _blir_ **-vokal -s**           | as mesas       | **-vokal -s** |
+|              |                |                |                                           |                |               |
+|              |                | **-konsonant** | **-konsonant** _blir_ **-konsonant -es**  |                |               |
+|              | o liquen       | **-n**         | **-n** _blir_ **-n -es**                  | os liquenes    | **-nes**      |
+|              | o professor    | **-r**         | **-r** _blir_ **-r -es**                  | os professores | **-res**      |
+|              | o país         | **-s**         | **-s** _blir_ **-s -es**                  | os países      | **-ses**      |
+|              | a luz          | **-z**         | **-z** _blir_ **-z -es**                  | as luzes       | **-zes**      |
+|              |                |                |                                           |                |               |
+|              | a ambição      | **-ão**        | **-aõ**  _blir_ **-ões**                  | as ambições    | **-ões**      |
+|              | o pão          | **-ão**        | **-aõ**  _blir_ **-ães**                  | os pães        | **-ães**      |
+|              | a mão          | **-ão**        | **-aõ**  _blir_ **-ãos**                  | as mãos        | **-ãos**      |
+|              |                |                |                                           |                |               |
+|              | o som          | **-m**         | **-m**  _blir_ **-ns**                    | os sons        | **-ns**       |
+|              |                |                |                                           |                |               |
+|              | o animal       | **-al**        | **-al**  _blir_ **-ais**                  | os animais     | **-ais**      |
+|              | o hotel        | **-el**        | **-el**  _blir_ **-eis**                  | os hotéis      | **-eis**      |
+|              | o sol          | **-ol**        | **-ol**  _blir_ **-ois**                  | os sóis        | **-ois**      |
+|              | o azul         | **-ul**        | **-ul**  _blir_ **-uis**                  | os azuis       | **-uis**      |
+|              |                |                |                                           |                |               |
+|              | o funil        | **-il**        | Betonad stavelse **-il** _blir_ **-is**   | os funis       | **-is**       |
+|              | o fóssil       | **-il**        | Obetonad stavelse **-il** _blir_ **-eis** | os fósseis     | **-eis**      |
 
 
