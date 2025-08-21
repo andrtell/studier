@@ -15,7 +15,7 @@
 |          |                    |           | sardinha  | sardi-nj-a  |
 |          |                    |           |           |             |
 | **ch**   |                    | **sje**   | China     | sje-ina     |
-|          |                    | (tonlost) | chefe     | sje-fe      |
+|          |                    | (tonlöst) | chefe     | sje-fe      |
 |          |                    |           | choque    | sje-oque    |
 |          |                    |           |           |             |
 | **c**    | före a, o och u    | **k**     | comédia   | k-omédia    |
