@@ -62,3 +62,11 @@
 |              |           | Feminin   | Obestämd      | Grundform  | umas    | umas praias         |
 |              |           |           | Bestämd       |            | as      | as luzes            |
 |              |           |           |               | Genitiv    |         |                     |
+
+
+|  Substantiv  | Slutar på | Genus      | Exempel     |
+| ------------ | --------- | ---------- | ----------- |
+|              | **- o**    | Maskulin   | o pato      |
+|              | **- l**    |            | o papel     |
+|              | **- r**    |            | o colar     |
+|              | **- z**    |            | o juiz      |
