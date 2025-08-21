@@ -1,17 +1,30 @@
+# Diftonger
+
+
+
 # Betoning
 
-| Regel           | Slutar på   | Betoning                          | Exempel                       |
-| --------------- | ----------- | --------------------------------- | ------------------------------|
-| Flerstaviga ord | **-a**      | Näst sista stavelsen (penultima)  | <ins>ro</ins>s**a**           |
-|                 | **-e**      |                                   | <ins>fil</ins>m**e**          |
-|                 | **-o**      |                                   | <ins>pi</ins>an**o**          |
-
-
-Flerstaviga ord som slutar på I - U - NASAL - DIFTONG - KONSONANT
+| Regel           | Slutar på           | Betoning                          | Exempel                       |
+| --------------- | ------------------- | --------------------------------- | ------------------------------|
+| Flerstaviga ord | **-a**              | Näst sista stavelsen (penultima)  | <ins>ro</ins>s**a**           |
+|                 | **-e**              |                                   | <ins>fil</ins>m**e**          |
+|                 | **-o**              |                                   | <ins>pi</ins>an**o**          |
+|                 |                     |                                   |                               |
+|                 | **-i**              | Sista stavelsen (ultima)          | aqu<ins>**i**</ins>           |
+|                 | **-u**              |                                   | bam<ins>**bu**</ins>          |
+|                 | **-konsonant**      |                                   | ho<ins>te**l**<ins>           |
+|                 | **-nasal(vokal)**   |                                   |                               |
+|                 | **-diftong(vokal)** |                                   | bal<ins>c**ão**</ins>         |
 
 # Uttal
 
-| Stavelse | Regel              | Uttal     | Ord         | Uttal       |
+## Diftonger
+
+
+
+## Konsonanter
+
+| Stavning | Regel              | Uttal     | Ord         | Uttal       |
 | -------- | ------------------ | --------- | ----------- | ----------- |
 | **h**    |                    | stumt     | H-olanda    | olanda      |
 |          |                    |           | h-armonia   | armonia     |
