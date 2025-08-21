@@ -71,3 +71,7 @@
 |              |                | **- r**          |            | o colar            |
 |              |                | **- z**          |            | o juíz             |
 |              | Hav, Sjö, flod |                  |            | Atlântico, Báltico |
+|              | Berg-(kedjor)  |                  |            | os Himalaias       |
+|              | Viner          |                  |            | Porto              |
+|              | Bilmärken      |                  |            | Ferrari            |
+|              | Bokstäver      |                  |            | o 'a', o 'p'       |
