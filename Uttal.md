@@ -1,6 +1,3 @@
-# Diftonger
-
-
 
 # Betoning
 
@@ -24,7 +21,7 @@
 
 # Uttal
 
-## Diftonger (sammansatta vokaler)
+## Diftonger (vokaler)
 
 
 
