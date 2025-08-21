@@ -162,5 +162,11 @@
 |              | o pão          | **-ão**        | **-aõ**  _blir_ **-ães**                 | os pães        | **-ães**      |
 |              | a mão          | **-ão**        | **-aõ**  _blir_ **-ãos**                 | as mãos        | **-ãos**      |
 |              |                |                |                                          |                |               |
+|              | o som          | **-m**         | **-m**  _blir_ **-ns**                   | os sons        | **-ns**       |
+|              |                |                |                                          |                |               |
+|              | o animal       | **-al**        | **-al**  _blir_ **-ais**                 | os animais     | **-ais**      |
+|              | o hotel        | **-el**        | **-el**  _blir_ **-eis**                 | os hotéis      | **-eis**      |
+|              | o sol          | **-ol**        | **-ol**  _blir_ **-ois**                 | os sóis        | **-ois**      |
+|              | o azul         | **-ul**        | **-ul**  _blir_ **-uis**                 | os azuis       | **-uis**      |
 
 
