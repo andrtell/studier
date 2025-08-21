@@ -15,14 +15,20 @@
 |                 | **-konsonant**      |                                   | ho<ins>te**l**<ins>           |
 |                 | **-nasal(vokal)**   |                                   |                               |
 |                 | **-diftong(vokal)** |                                   | bal<ins>c**ão**</ins>         |
+|                 |                     |                                   |                               |
+|  Accent         |                     | På accenten                       |                               |
+|                 |                     |                                   |                               |
+|                 |                     |                                   |                               |
+|                 |                     |                                   |                               |
+
 
 # Uttal
 
-## Diftonger
+## Diftonger (sammansatta vokaler)
 
 
 
-## Konsonanter
+## Konsonant(er)
 
 | Stavning | Regel              | Uttal     | Ord         | Uttal       |
 | -------- | ------------------ | --------- | ----------- | ----------- |
