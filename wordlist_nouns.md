@@ -1,4 +1,10 @@
-| freq # |  Ord      | Betydelse   | Maskulin  | Feminin | Plural   |
-| ------ | --------  | ----------- | --------- | --------| -------  |
-| 35     | um ano    | ett år      |           |         | uns anos |
-| 45     | uma vez   | en tid      |                     | uma
+| freq # |  Ord      | Plural     | Svenska   | Uttal    |           |
+| ------ | --------  | ---------- | --------- | -------- | --------- |
+| 35     | o ano     | os anos    | år        |          |           |
+| 45     | a vez     | as vezas   | tid       |          |           |
+| 51     | o dia     | os dias    | dag       |          |           | 
+| 66     | o tempo   | os tempos  | tid       | ˈtẽpu    |           |
+|        |           |            | väder     |          | metrologi |
+|        |           |            | tempus    |          | grammatik |
+| 70     | a pessoa  | as pessoas | person    |  peˈsoa  |           |
+| 71     | a coisa   | as coisas  | sak       | ˈkojza   |           |
