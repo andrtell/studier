@@ -157,6 +157,10 @@
 |              | o professor    | **-r**         | **-r** _blir_ **-r -es**                 | os professores | **-res**      |
 |              | o país         | **-s**         | **-s** _blir_ **-s -es**                 | os países      | **-ses**      |
 |              | a luz          | **-z**         | **-z** _blir_ **-z -es**                 | as luzes       | **-zes**      |
-
+|              |                |                |                                          |                |               |
+|              | a ambição      | **-ão**        | **-aõ**  _blir_ **-ões**                 | as ambições    | **-ões**      |
+|              | o pão          | **-ão**        | **-aõ**  _blir_ **-ães**                 | os pães        | **-ães**      |
+|              | a mão          | **-ão**        | **-aõ**  _blir_ **-ãos**                 | as mãos        | **-ãos**      |
+|              |                |                |                                          |                |               |
 
 
