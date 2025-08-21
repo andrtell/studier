@@ -63,6 +63,7 @@
 |              |           |           | Bestämd       |            | as      | as luzes            |
 |              |           |           |               | Genitiv    |         |                     |
 
+## Maskulina substantiv
 
 |  Substantiv  | Regel          | Slutar på        | Genus      | Exempel             |
 | ------------ | -------------- | ---------------- | ---------- | ------------------- |
@@ -82,6 +83,8 @@
 |              | Bokstäver      |                  |            | o 'a'; o 'p'        |
 |              | Grundtal       |                  |            | o um; o duzentos    |
 
+## Feminina substantiv
+
 |  Substantiv  | Regel          | Slutar på        | Genus      | Exempel             |
 | ------------ | -------------- | ---------------- | ---------- | ------------------- |
 |              |                | **- a**          | Feminin    | a panela            |
@@ -95,6 +98,8 @@
 |              | Kvin. Yrke     |                  |            | a florista          |
 |              | Vetensk, konst |                  |            | a Medicina          |
 |              | Djur (vissa)   |                  |            | a iguana            |
+
+## Maskulina och Feminina varianter av samma ord
 
 |  Substantiv  | Maskulin       | Slutar på       | Regel                                    | Feminin       | Slutar på               |
 | ------------ | -------------- | --------------- | ---------------------------------------- | ------------- | ----------------------- |
