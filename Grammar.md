@@ -96,10 +96,11 @@
 |              | Vetensk, konst |                  |            | a Medicina          |
 |              | Djur (vissa)   |                  |            | a iguana            |
 
-|  Substantiv  | Maskulin       | Slutar på        | Regel                                 | Feminin     | Slutar på                |
-| ------------ | -------------- | ---------------- | ------------------------------------- | --------    | ------------------------ |
-|              |  o tio         | **- o**          | **- o** _blir_ **- a**                | a tia       | **- a**                  |
-|              |  o cantor      | **-konsonant** | **-konsonant** _blir_ **-konsonant -a**  | a cantora   | **-konsonant -a**       |
+|  Substantiv  | Maskulin       | Slutar på       | Regel                                    | Feminin       | Slutar på               |
+| ------------ | -------------- | --------------- | ---------------------------------------- | ------------- | ----------------------- |
+|              |  o tio         | **- o**         | **- o** _blir_ **- a**                   | a tia         | **- a**                 |
+|              |  o português   | **-konsonant**  | **-konsonant** _blir_ **-konsonant -a**  | a portuguêsa  | **-konsonant -a**       |
+|              |  o cantor      | **-or**         | **-or** _blir_ **-ora**                  | a cantora     | **-ora**                |
 
 
 
