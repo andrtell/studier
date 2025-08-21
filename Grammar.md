@@ -122,8 +122,26 @@
 
 |  Substantiv  | Maskulin       | Regel                      | Feminin     |  
 | ------------ | -------------- | -------------------------- | ----------- | 
-|              | a criança      | samma ord, samma artikel   | a criança   | 
+|              | a criança      | samma ord och artikel      | a criança   | 
 |              | o cônjuge      |                            | o cônjuge   | 
+
+|  Substantiv  | Maskulin       | Regel                      | Feminin     |  
+| ------------ | -------------- | -------------------------- | ----------- | 
+|              | o consul       | oregelbunden ändelse       | a consulesa | 
+|              | o poeta        |                            | a poetisa   | 
+
+|  Substantiv  | Maskulin       | Regel                      | Feminin     |  
+| ------------ | -------------- | -------------------------- | ----------- | 
+|              | o macho        | helt olika ord             | a fêmea     | 
+|              | o boi          |                            | a vaca      | 
+|              | o homem        |                            | a mulher    | 
+
+|  Substantiv  | Maskulin       | Regel                          | Feminin     |  
+| ------------ | -------------- | ------------------------------ | ----------- | 
+|              | a formiga      | fixt Genus, oavset kön pa djur | a formiga   | 
+|              | o tigre        |                                | o tigre     | 
+
+
 
 
 
