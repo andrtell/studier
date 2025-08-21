@@ -99,7 +99,7 @@
 |              | Vetensk, konst |                  |            | a Medicina          |
 |              | Djur (vissa)   |                  |            | a iguana            |
 
-## Maskulina och Feminina varianter av samma ord
+## Maskulina och Feminina varianter av samma substantiv
 
 |  Substantiv  | Maskulin       | Slutar på       | Regel                                    | Feminin       | Slutar på               |
 | ------------ | -------------- | --------------- | ---------------------------------------- | ------------- | ----------------------- |
