@@ -108,7 +108,14 @@
 |              |                |                 |                                          |               |                         |
 |              |  o europeu     | **-eu**         | **-eu** _blir_ **-eia**                  | a europeia    | **-eia**                |
 |              |                |                 |                                          |               |                         |
-|              |  o europeu     | **-eu**         | **-eu** _blir_ **-eia**                  | a europeia    | **-eia**                |
+|              |  o anão        | **-ão**         | **-ão** _blir_ **-ã**                    | a anã         | **-ã**                  |
+|              |  o leão        | **-ão**         | **-ão** _blir_ **-oa**                   | a leoa        | **-oa**                 |
+|              |  o solteirão   | **-ão**         | **-ão** _blir_ **-ona**                  | a solteirona  | **-ona**                |
+
+
+
+
+
 
 
 
