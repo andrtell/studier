@@ -71,6 +71,8 @@
 |              |                | **- r**          |            | o colar             |
 |              |                | **- z**          |            | o juíz              |
 |              | Grekiska       | **- a**          |            | o telegrama; o mapa |
+|              | Konkreta subt. | **- e**, **-âo** |            | o leite, o limâo    |
+|              |                |                  |            |                     |
 |              | Man. Namn      |                  |            | o Andreas           |
 |              | Man. Yrke      |                  |            | o Bombeiro          |
 |              | Hav, Sjö, flod |                  |            | Atlântico; Báltico  |
