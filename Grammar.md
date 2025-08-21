@@ -81,3 +81,17 @@
 |              | Bilmärken      |                  |            | Ferrari             |
 |              | Bokstäver      |                  |            | o 'a'; o 'p'        |
 |              | Grundtal       |                  |            | o um; o duzentos    |
+
+|  Substantiv  | Regel          | Slutar på        | Genus      | Exempel             |
+| ------------ | -------------- | ---------------- | ---------- | ------------------- |
+|              |                | **- a**          | Feminin    | a panela            |
+|              |                | **- ã**          |            | a irmã              |
+|              |                | **- ade**        |            | a verdade           |
+|              |                | **- ice**        |            | a velhice           |
+|              |                | **- gem**        |            | a viagem            |
+|              | Abstrakta subs.| **- e**, **-âo** |            | a morte, a paixão   |
+|              |                |                  |            |                     |
+|              | Kvin. Namn     |                  |            | a Maria             |
+|              | Kvin. Yrke     |                  |            | a florista          |
+|              | Vetensk, konst |                  |            | a Medicina          |
+|              | Djur           |                  |            | a iguana            |
