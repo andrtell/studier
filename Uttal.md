@@ -1,3 +1,9 @@
+# Betoning
+
+| Regel           | Slutar på   | Betoning                          | Exempel                                              |
+| --------------- | ----------- | --------------------------------- | ---------------------------------------------------- |
+| Flerstavigt ord | -a, -e, -o  | Näst sista stavelsen (penultima)  | <ins>ro</ins>sa, <ins>fil</ins>me, <ins>pi</ins>ano  |
+
 # Uttal
 
 | Stavelse | Regel              | Uttal     | Ord       | Uttal       |
