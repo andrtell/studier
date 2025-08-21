@@ -95,3 +95,10 @@
 |              | Kvin. Yrke     |                  |            | a florista          |
 |              | Vetensk, konst |                  |            | a Medicina          |
 |              | Djur (vissa)   |                  |            | a iguana            |
+
+|  Substantiv  | Maskulin       | Slutar på        | Regel                   | Feminin     | Slutar på     |
+| ------------ | -------------- | ---------------- | ----------------------- | --------    | ------------- |
+|              |  o tio         | **- o**          | **- o** _blir_ **- a**  | a tia       | **- a**       |
+
+
+
