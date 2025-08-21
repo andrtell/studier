@@ -113,9 +113,17 @@
 |              |  o solteirão   | **-ão**         | **-ão** _blir_ **-ona**                  | a solteirona  | **-ona**                |
 
 
+|  Substantiv  | Maskulin       | Regel                      | Feminin     |  
+| ------------ | -------------- | -------------------------- | ----------- | 
+|              | o doenta       | samma ord, olika artikel   | a doente    | 
+|              | o artista      |                            | a artista   | 
+|              | o turista      |                            | a turista   | 
+|              | o guia         |                            | a guia      | 
 
-
-
+|  Substantiv  | Maskulin       | Regel                      | Feminin     |  
+| ------------ | -------------- | -------------------------- | ----------- | 
+|              | a criança      | samma ord, samma artikel   | a criança   | 
+|              | o cônjuge      |                            | o cônjuge   | 
 
 
 
