@@ -1,22 +1,22 @@
 
 # Betoning
 
-| Regel           | Slutar på           | Betoning                          | Exempel                       |
-| --------------- | ------------------- | --------------------------------- | ------------------------------|
-| Flerstaviga ord | **-a**              | Näst sista stavelsen (penultima)  | <ins>ro</ins>s**a**           |
-|                 | **-e**              |                                   | <ins>fil</ins>m**e**          |
-|                 | **-o**              |                                   | <ins>pi</ins>an**o**          |
-|                 |                     |                                   |                               |
-|                 | **-i**              | Sista stavelsen (ultima)          | aqu<ins>**i**</ins>           |
-|                 | **-u**              |                                   | bam<ins>**bu**</ins>          |
-|                 | **-konsonant**      |                                   | ho<ins>te**l**<ins>           |
-|                 | **-nasal(vokal)**   |                                   |                               |
-|                 | **-diftong(vokal)** |                                   | bal<ins>c**ão**</ins>         |
-|                 |                     |                                   |                               |
-|  Accent         |                     | På accenten                       |                               |
-|                 |                     |                                   |                               |
-|                 |                     |                                   |                               |
-|                 |                     |                                   |                               |
+| Regel           | Slutar på            | Betoning                          | Exempel                       |
+| --------------- | -------------------- | --------------------------------- | ------------------------------|
+| Flerstaviga ord | **-a**               | Näst sista stavelsen (penultima)  | <ins>ro</ins>s**a**           |
+|                 | **-e**               |                                   | <ins>fil</ins>m**e**          |
+|                 | **-o**               |                                   | <ins>pi</ins>an**o**          |
+|                 |                      |                                   |                               |
+|                 | **-i**               | Sista stavelsen (ultima)          | aqu<ins>**i**</ins>           |
+|                 | **-u**               |                                   | bam<ins>**bu**</ins>          |
+|                 | **-konsonant**       |                                   | ho<ins>te**l**<ins>           |
+|                 | **-nasal (vokal)**   |                                   |                               |
+|                 | **-diftong (vokal)** |                                   | bal<ins>c**ão**</ins>         |
+|                 |                      |                                   |                               |
+|  Accent         |                      | På accenten                       |                               |
+|                 |                      |                                   |                               |
+|                 |                      |                                   |                               |
+|                 |                      |                                   |                               |
 
 
 # Uttal
