@@ -25,3 +25,5 @@ eng. joke -> dʒəʊk
 | 16  | 108    | o estado     | os estados   | tillstånd         | iˈstadu  |             |
 | 17  | 111    | a cidade     | as cidades   | stad              | siˈdadʒi | cidad-ji    |
 | 18  | 113    | o governo    | os governos  | regering          | ɡoˈvernu |             |
+| 19  | 117    | o lado       | os lados     | sida              | ˈladu    |             |
+| 20  | 121    | o nome       | os nomes     | namn              | ˈnɔmi    |             |
