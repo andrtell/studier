@@ -152,6 +152,8 @@
 | ------------ | -------------- | -------------- | ----------------------------------------- | -------------- | ------------- |
 |              | a mesa         | **-vokal**     | **-vokal** _blir_ **-vokal -s**           | as mesas       | **-vokal -s** |
 |              |                |                |                                           |                |               |
+|              | o lápis        | **-s**         | samma ord                                 | os lápis       | **-s**        |
+|              |                |                |                                           |                |               |
 |              |                | **-konsonant** | **-konsonant** _blir_ **-konsonant -es**  |                |               |
 |              | o liquen       | **-n**         | **-n** _blir_ **-n -es**                  | os liquenes    | **-nes**      |
 |              | o professor    | **-r**         | **-r** _blir_ **-r -es**                  | os professores | **-res**      |
