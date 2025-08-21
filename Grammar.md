@@ -94,4 +94,4 @@
 |              | Kvin. Namn     |                  |            | a Maria             |
 |              | Kvin. Yrke     |                  |            | a florista          |
 |              | Vetensk, konst |                  |            | a Medicina          |
-|              | Djur           |                  |            | a iguana            |
+|              | Djur (vissa)   |                  |            | a iguana            |
