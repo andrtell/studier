@@ -64,14 +64,18 @@
 |              |           |           |               | Genitiv    |         |                     |
 
 
-|  Substantiv  | Regel          | Slutar på        | Genus      | Exempel            |
-| ------------ | -------------- | ---------------- | ---------- | ------------------ |
-|              |                | **- o**          | Maskulin   | o pato             |
-|              |                | **- l**          |            | o papel            |
-|              |                | **- r**          |            | o colar            |
-|              |                | **- z**          |            | o juíz             |
-|              | Hav, Sjö, flod |                  |            | Atlântico, Báltico |
-|              | Berg-(kedjor)  |                  |            | os Himalaias       |
-|              | Viner          |                  |            | Porto              |
-|              | Bilmärken      |                  |            | Ferrari            |
-|              | Bokstäver      |                  |            | o 'a', o 'p'       |
+|  Substantiv  | Regel          | Slutar på        | Genus      | Exempel             |
+| ------------ | -------------- | ---------------- | ---------- | ------------------- |
+|              |                | **- o**          | Maskulin   | o pato              |
+|              |                | **- l**          |            | o papel             |
+|              |                | **- r**          |            | o colar             |
+|              |                | **- z**          |            | o juíz              |
+|              | Grekiska       | **- a**          |            | o telegrama; o mapa |
+|              | Man. Namn      |                  |            | o Andreas           |
+|              | Man. Yrke      |                  |            | o Bombeiro          |
+|              | Hav, Sjö, flod |                  |            | Atlântico; Báltico  |
+|              | Berg-(kedjor)  |                  |            | os Himalaias        |
+|              | Viner          |                  |            | Porto               |
+|              | Bilmärken      |                  |            | Ferrari             |
+|              | Bokstäver      |                  |            | o 'a'; o 'p'        |
+|              | Grundtal       |                  |            | o um; o duzentos    |
