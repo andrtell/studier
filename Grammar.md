@@ -101,6 +101,10 @@
 |              |  o tio         | **- o**         | **- o** _blir_ **- a**                   | a tia         | **- a**                 |
 |              |  o português   | **-konsonant**  | **-konsonant** _blir_ **-konsonant -a**  | a portuguêsa  | **-konsonant -a**       |
 |              |  o cantor      | **-or**         | **-or** _blir_ **-ora**                  | a cantora     | **-ora**                |
+|              |  o actor       | **-or**         | **-or** _blir_ **-triz**                 | a actriz      | **-triz**               |
+|              |  o lavrador    | **-or**         | **-or** _blir_ **-eira**                 | a lavradeira  | **-eira**               |
+|              |  o europeu     | **-eu**         | **-eu** _blir_ **-eia**                  | a europeia    | **-eia**                |
+|              |  o europeu     | **-eu**         | **-eu** _blir_ **-eia**                  | a europeia    | **-eia**                |
 
 
 
