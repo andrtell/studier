@@ -68,3 +68,13 @@ N채r adjektivet p책verkas av substantivet s채ger man att adjektivet _kongurensb�
 | --------- | ------------------- |
 | Obest채md  | en **gul** bil      |
 | Best채md   | den **gula** bilen  |
+
+### Komparation
+
+Det finns tre komparationsformer: __positiv__, __komparativ__ och __superlativ__.
+
+|                  | positiv          | komparativ            | superlativ      |
+| ---------------- | ---------------- | --------------------- | --------------- |
+| 채ndelse          | glad             | gladare               | gladast         |
+| mer, mest        | idiotisk         | mer idiotisk          | mest idiotisk   |
+| oregelbunden     | gammal           | 채ldre                 | 채ldst           |
