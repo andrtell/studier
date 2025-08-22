@@ -31,4 +31,17 @@ eng. joke -> dʒəʊk
 | 25  |        | a filha      | as filhas    | dotter            | ˈfiʎa      |             |
 | 26  | 145    | a água       | as águas     | vatten            | ˈaɡwa      |             |
 | 27  | 146    | o direito    | os direitos  | rättighet, lag    | dʒiˈrejtu  |             |          
-| 28  | 147    | o público    | os públicos  | publik            | ˈpubliku   |             |          
+| 28  | 147    | o público    | os públicos  | publik            | ˈpubliku   |             |
+| 29  | 149    | o problema   | os problemas | problem           | probˈlɛma  |             |
+| 30  | 153    | a história   | as histórias | historia          | isˈtɔrja   |             |
+| 31  | 154    | o grupo      | os grupos    | grupp             | ˈɡrupu     |             |
+| 32  | 155    | a hora       | as horas     | timme             | ˈɔra       |             |
+| 33  | 164    | a obra       | as obras     | arbete, projekt   | ˈɔbra      |             |
+| 34  | 165    | o facto      | os factos    | fakta             | ˈfaktu     |             |
+| 35  | 166    | o ponto      | os pontos    | punkt             | ˈpõtu      |             |
+| 36  | 168    | o fim        | os fins      | slut, syfte       | fı̃         |             |
+| 37  | 170    | o pai        | os pais      | far               | paj        |             |
+| 38  | 172    | a relação    | as relações  | relation          | helaˈsãw   |             |
+| 39  | 175    | o momento    | os momentos  | stund             | moˈmẽtu    |             |
+| 40  | 177    | a ideia      | as ideias    | ide               | iˈdɛja     |             |
+
