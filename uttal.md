@@ -2,6 +2,8 @@
 
 * Sje-ljudet varierar mycket över landet. För att notera uttalet används ibland en neutral frikativa, **[ ʃ ]** 
 * För att skilja de olika uttalen åt används främst **[ ɧ ]**  för sje-ljudet i rikssvenska ”ske” och **[ ʂ ]** för det främre sje-ljudet i rikssvenska ”fors".
+* Accent markeras med tecken direkt före de betonade stavelserna: **[ ˈ ]** för primär betoning och **[ ˌ ]** för sekundär betoning.
+
 
 | Symbol | Exempel | Uttal     | Kommentar                                |
 | ------ | ------- | --------- | ---------------------------------------- |
