@@ -1,4 +1,4 @@
-# Substanstiv
+# Substantiv
 
 ## Genus
 
