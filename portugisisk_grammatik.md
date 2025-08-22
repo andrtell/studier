@@ -135,3 +135,6 @@
 |              | o funil        | **-il**        | Betonad stavelse **-il** _blir_ **-is**   | os funis       | **-is**       |
 |              | o fóssil       | **-il**        | Obetonad stavelse **-il** _blir_ **-eis** | os fósseis     | **-eis**      |
 
+# Adjektiv
+
+
