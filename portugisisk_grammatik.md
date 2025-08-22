@@ -1,3 +1,5 @@
+# Substanstiv
+
 ## Genus
 
 |  Substantiv  | Genus      | Exempel                                |
