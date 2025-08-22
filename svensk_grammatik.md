@@ -1,5 +1,8 @@
+## Substantiv
 
-|  Substantiv  | Klass      | Exempel             |
+Latin: substantivum, av substansia substans
+
+|  Substantiv  | Typ        | Exempel             |
 | ------------ | ---------- | ------------------- |
 |              | Egennamn   | Andreas, New York   |
 |              | Kollektiva | familj, grupp, lag  |
