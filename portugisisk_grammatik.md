@@ -107,7 +107,7 @@
 |              | a formiga      | fixt Genus, oavset kön pa djur | a formiga   | 
 |              | o tigre        |                                | o tigre     | 
 
-## Bild plural av substantiv i singular
+## Bilda plural av substantiv i singular
 
 |  Substantiv  | Singular       | Slutar på      |  Regel                                    | Plural         | Slutar på     |  
 | ------------ | -------------- | -------------- | ----------------------------------------- | -------------- | ------------- |
