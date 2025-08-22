@@ -6,6 +6,7 @@
 * Tje-ljudet skrivs med **[ ɕ ]**.
 * R-ljudet skrivs oftast endast med **[ r ]**. Mer noggrant skrivs bakre tungrots-r som **[ ʀ ]** och främre tungspets-r som **[ r ]**.
 * Svenska vokaler uttalas fonetiskt olika beroende på om de är långa eller korta; Kort a skrivs som **[ a ]**, medan långt a skrivs som **[ ɑ: ]**.
+* Ett kolon **[ ː ]** markerar att ett fonem ska uttalas långt.
 
 ## Svenska vokaler
 
