@@ -9,23 +9,29 @@ Latin: substantivum, av substansia substans
 |              | Konkreta   | hund, himmel        |
 |              | Abstrakta  | kärlek, sorg, tanke |
 
+### Numerus 
+
 |  Substantiv  | Numerus    |               | 
 | ------------ | ---------- | ------------- |
 |              | Singular   | pojke         |
 |              | Plural     | flickor       |
 |              | Plural     | möss (omljud) |
 
+### Genus
+
 |  Substantiv  | Genus      |         | Exempel                   |
 | ------------ | ---------- | ------- | ------------------------- |
 |              | Utrum      | n-genus | en mus, flera möss, musen |
 |              | Neutrum    | t-genus | ett hus, flera hus, huset |
 
+### Kasus
 
 |  Substantiv  | Kasus      |         | Exempel  |
 | ------------ | ---------- | ------- | ---------|
 |              | Grundform  |         | flicka   |
 |              | Genitiv    | ägande  | flickans |
 
+### Sammanfattning
 
 |  Substantiv  | Numerus   | Genus     | Form          | Kasus      | Artikel | Exempel             |
 | ------------ | --------- | --------- | ------------- | ---------- | --------| ------------------- |
