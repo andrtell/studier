@@ -1,5 +1,33 @@
 Todo stämmer inte riktigt.
 
+| Symbol | Exempel | Uttal     | Kommentar                                |
+| ------ | ------- | --------- | ---------------------------------------- |
+| ɑː 	   | mal 	   | [mɑːl] 	 |                                          |
+| a 	   | mall 	 | [malː] 	 |                                          |
+| eː 	   | sked 	 | [ɧeːd] 	 |                                          |
+| e      | skedd 	 | [ɧedː] 	 |                                          | 
+| ɛ      | skedd 	 | [ɧɛdː] 	 | Dialektal (se häll)                      |
+| iː 	   | sil 	   | [siːl] 	 |                                          |
+| ɪ 	   | sill 	 | [sɪlː] 	 |                                          |
+| uː 	   | bot 	   | [buːt] 	 |                                          |
+| ʊ 	   | bott 	 | [bʊtː] 	 |                                          | 
+| yː 	   | nys 	   | [nyːs] 	 |                                          |
+| ʏ 	   | nyss 	 | [nʏsː]    |                                          |
+| ʉ̟ː     | bus 	   | [bʉ̟ːs] 	 | Diakriten ska vara under ʉ-tecknet.      |
+| ɵ 	   | buss 	 | [bɵsː] 	 | I vissa ord finns ʉ̟; "hustru" [ˈhɵsˌtrʉ̟] |
+| oː 	   | hål 	   | [hoːl] 	 |                                          |
+| ɔ 	   | håll 	 | [hɔlː]    |                                          | 	 
+| æː 	   | kär 	   | [ɕæːr]    |                                          |	 
+| æ 	   | kärr 	 | [ɕærː]    |                                          | 	 
+| ɛː 	   | häl     | [hɛːl]    |                                          | 	 
+| ɛ 	   | häll 	 | [hɛlː]    |                                          | 	 
+| œ̞ː 	   | för 	   | [fœ̞ːr] 	 | Diakriten ska vara under œ-tecknet.      |
+| œ̞ 	   | förr 	 | [fœ̞rː] 	 | Diakriten ska vara under œ-tecknet.      |
+| øː 	   | hög     | [høːg]    |                                          | 	 
+| œ 	   | högg 	 | [hœgː]    |                                          | 	 
+| ə 	   | hellre  | [ˈhɛlːrə] | schwa, neutralvokal, vokalmummel         |
+
+
 
 # Betoning
 
