@@ -5,6 +5,7 @@
 * Accent markeras med tecken direkt före de betonade stavelserna: **[ ˈ ]** för primär betoning och **[ ˌ ]** för sekundär betoning.
 * Tje-ljudet skrivs med **[ ɕ ]**.
 * R-ljudet skrivs oftast endast med **[ r ]**. Mer noggrant skrivs bakre tungrots-r som **[ ʀ ]** och främre tungspets-r som **[ r ]**.
+* Svenska vokaler uttalas fonetiskt olika beroende på om de är långa eller korta; Kort a skrivs som **[ a ]**, medan långt a skrivs som **[ ɑ: ]**.
 
 ## Svenska vokaler
 
