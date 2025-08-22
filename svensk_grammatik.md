@@ -41,3 +41,24 @@ Latin: substantivum, av substansia substans
 |              |           | Neutrum   | Obestämd      | Grundform  |         | flera hus, fartyg   |
 |              |           |           | Bestämd       |            |         | husen, fartygen     |
 |              |           |           |               | Genitiv    |         | husens, fartygens   |
+
+## Adjektiv
+
+### Kongruensböjning
+
+När adjektivet påverkas av substantivet säger man att adjektivet kongurensböjs
+
+| Genus     | Exempel             |
+| --------- | ------------------- |
+| Utrum     | en **gul** bil      |
+| Neutrum   | ett **gult** hus    |
+
+| Numerus   | Exempel             |
+| --------- | ------------------- |
+| Singular  | en **gul** bil      |
+| Plural    | tre **gula** bilar  |
+
+| Form      | Exempel             |
+| --------- | ------------------- |
+| Obestämd  | en **gul** bil      |
+| Bestämd   | den **gula** bilen  |
