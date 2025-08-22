@@ -1,5 +1,7 @@
 # Svenskt uttal
-
+* En mindre detaljerad transkription är den **fonematiska**, och här sätts tecknen omgärdade av snedstreck (exempel: **/ka:ka/** för uttalet av ordet 'kaka'). 
+  Här anges bara fonem, det vill säga de betydelseskiljande ljuden.
+* En detaljerad transkription är den **fonetiska**, och här sätts IPA-tecknen inom hakparentes. (exempel: **[kʰɑ:ka]** för uttalet av ordet 'kaka')
 * Sje-ljudet varierar mycket över landet. För att notera uttalet används ibland en neutral frikativa, **[ ʃ ]** 
 * För att skilja de olika uttalen åt används främst **[ ɧ ]**  för sje-ljudet i rikssvenska ”ske” och **[ ʂ ]** för det främre sje-ljudet i rikssvenska ”fors".
 * Accent markeras med tecken direkt före de betonade stavelserna: **[ ˈ ]** för primär betoning och **[ ˌ ]** för sekundär betoning.
