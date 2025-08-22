@@ -38,6 +38,33 @@
 | œ 	   | högg 	 | [hœgː]    |                                          | 	 
 | ə 	   | hellre  | [ˈhɛlːrə] | schwa, neutralvokal, vokalmummel         |
 
+## Svenska konsonanter
+
+| Symbol | Exempel | Uttal   | Kommentar                                         |
+| ------ | ------ | -------- | ------------------------------------------------- |
+| b      | bal    | [bɑːl]   | tonande bilabial klusil                           |
+| d      | dal    | [dɑːl]   | tonande alveolar klusil                           |
+| f      | far    | [fɑːr]   | tonlös labiodental frikativa                      |
+| g      | gal    | [gɑːl]   | tonande velar klusil                              |
+| h      | hal    | [hɑːl]   | tonlös glottal frikativa                          |
+| j      |	jag   | [jɑːg]   | tonande palatal approximant                       |
+| k      | kal    | [kʰɑːl]  | tonlös velar klusil                               |
+| l      | lag    | [lɑːg]   | tonande alveolar lateral approximant              |
+| m      | mal    | [mɑːl]   | tonande bilabial nasal                            |
+| n      | nar    | [nɑːr]   | tonande alveolar nasal                            |
+| p      | par    | [pʰɑːr]  | tonlös bilabial klusil                            |
+| r      |	rar   | [rɑːr]   | tonande alveolar tremulant                        |
+| s      | sal    | [sɑːl]   | tonlös alveolar frikativa                         |
+| t      | tal    | [tʰɑːl]  | tonlös alveolar klusil                            |
+| v      | val    | [vɑːl]   | tonande labiodental frikativa                     |
+| ŋ      | ung    | [ɵŋː] 	 | tonande velar nasal                               |
+| ɧ      | sjal   | [ɧɑːl]   | tonlös samtidigt postalveolar och velar frikativa |
+| ɕ      | tjog   | [ɕoːg]   | tonlös alveolopalatal frikativa                   |
+| ʂ      | kurs   | [kʰɵʂː]  | tonlös retroflex frikativa                        |
+| ɖ      | bard   | [bɑːɖ]   | tonande retroflex klusil                          |
+| ʈ      | bart   | [bɑːʈ]   | tonlös retroflex klusil                           |
+| ɳ      | barn   | [bɑːɳ]   | tonande retroflex nasal                           |
+| ɭ      | farlig | [fɑːɭɪg] | tonande retroflex lateral approximant             |
 
 
 # Betoning
