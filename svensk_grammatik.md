@@ -52,7 +52,7 @@ Latin: substantivum, av substansia substans
 
 ### Kongruensböjning
 
-När adjektivet påverkas av substantivet säger man att adjektivet kongurensböjs
+När adjektivet påverkas av substantivet säger man att adjektivet _kongurensböjs_
 
 | Genus     | Exempel             |
 | --------- | ------------------- |
