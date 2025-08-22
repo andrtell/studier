@@ -1,12 +1,14 @@
-Todo stämmer inte riktigt.
+## Svenska vokaler
+
+* Sje-ljudet varierar mycket över landet. För att notera uttalet används ibland en neutral frikativa, **[ ʃ ]** 
+* För att skilja de olika uttalen åt används främst **[ ɧ ]**  för sje-ljudet i rikssvenska ”ske” och **[ ʂ ]** för det främre sje-ljudet i rikssvenska ”fors".
 
 | Symbol | Exempel | Uttal     | Kommentar                                |
 | ------ | ------- | --------- | ---------------------------------------- |
 | ɑː 	   | mal 	   | [mɑːl] 	 |                                          |
 | a 	   | mall 	 | [malː] 	 |                                          |
 | eː 	   | sked 	 | [ɧeːd] 	 |                                          |
-| e      | skedd 	 | [ɧedː] 	 |                                          | 
-| ɛ      | skedd 	 | [ɧɛdː] 	 | Dialektal (se häll)                      |
+| e      | skedd 	 | [ʃedː] 	 | alt. [ɧedː]                              | 
 | iː 	   | sil 	   | [siːl] 	 |                                          |
 | ɪ 	   | sill 	 | [sɪlː] 	 |                                          |
 | uː 	   | bot 	   | [buːt] 	 |                                          |
