@@ -78,3 +78,10 @@ Det finns tre komparationsformer: __positiv__, __komparativ__ och __superlativ__
 | ändelse          | glad             | gladare               | gladast         |
 | mer, mest        | idiotisk         | mer idiotisk          | mest idiotisk   |
 | oregelbunden     | gammal           | äldre                 | äldst           |
+
+## Verb
+
+Verb talar om __vad någon gör__ eller __vad som händer__.
+
+- Andreas studerar <- _Andreas_ gör något
+- Solen skiner <- något händer
