@@ -108,3 +108,5 @@ Infinitiv är __grundformen__ av ett verb
 |        | att            | måla       |
 |        | att            | ställa     |
 |        | att            | kunna      |
+
+I många andra språk utgår du ifrån den infinitva formen av ett verb när verbet ska böjas. 
