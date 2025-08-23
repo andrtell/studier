@@ -93,3 +93,8 @@ Verb talar om __vad någon gör__ eller __vad som händer__.
 |        | huvudverb  | __vad händer__                      | Andreas <ins>målar</ins>                   |
 |        | hjälpverb  | __när?__                            | Andreas <ins>har</ins> målat               |
 | modala | hjälpverb  | __vilja, möjlighet, tvång?__        | Andreas <ins>vill / kan / måste</ins> måla |
+
+Ett verb kan vara både ett huvudverb och ett hjälpverb
+
+- Jag <ins>har</ins> en dator (huvudverb)
+- Jag <ins>har</ins> spelat (hjalpverb)
