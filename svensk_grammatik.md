@@ -91,4 +91,4 @@ Verb talar om __vad någon gör__ eller __vad som händer__.
 |  Verb  | Typ        | Regel           | Exempel                      |
 | -------| ---------- | --------------- | ---------------------------- |
 |        | huvudverb  | __vad händer__  | Andreas <ins>målar</ins>     |
-|        | hjälpverb  | __när?__        | Andreas <ins>har</ins> målat |
+|        | hjälpverb  | __när?__, ...   | Andreas <ins>har</ins> målat |
