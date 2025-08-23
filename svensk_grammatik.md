@@ -98,3 +98,13 @@ Ett verb kan vara både ett huvudverb och ett hjälpverb
 
 - Jag <ins>har</ins> en dator (huvudverb)
 - Jag <ins>har</ins> spelat (hjalpverb)
+
+### Infinitiv
+
+Infinitiv är __grundformen__ av ett verb
+
+|  Verb  | Infinitivmärke | Infintiv   |
+| -------| ----------     | -----------|
+|        | att            | måla       |
+|        | att            | ställa     |
+|        | att            | kunna      |
