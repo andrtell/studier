@@ -109,4 +109,11 @@ Infinitiv är __grundformen__ av ett verb
 |        | att            | ställa     |
 |        | att            | kunna      |
 
+Alla ord har en stam. Till stammen lägger man ändelser.
+
+|  Verb  | Stam       | Infintiv     |
+| -------| ---------- | ------------ |
+|        | sov-       | (att) sov-a  |
+|        | måla-      | (att) måla   |
+
 
