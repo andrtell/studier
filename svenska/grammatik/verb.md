@@ -46,9 +46,19 @@ För att veta hur ett verb böjs lär man sig olika __tema__ på verbet.
 |        | __infinitiv__  | (att)  måla                         |
 |        |                |        prata                        |
 |        |                |        spela                        |
-|        | __preterium__  | (igår) målade                       |
+|        | __preteritum__ | (igår) målade                       |
 |        |                |        pratade                      |
 |        |                |        spelade                      |
 |        | __supinum__    | (har)  målat                        |
 |        |                |        pratat                       |
 |        |                |        spelat                       |
+
+### Svaga, starka och oregelbundna verb
+
+|  Verb  | Typ            | Infinitiv    | Preteritum    | Supinum    | Kommentar                     |
+| -------| -------------- | -------------| ------------- | ---------- | ----------------------------- |
+|        | Svagt verb     | måla         | måla-de       | måla-t     | ordstammen förblir oförändrad |
+|        |                |              |               |            |                               |
+|        | Starkt verb    | bit-a        | bet           | bit-it     | vokal ändras                  |
+|        |                |              |               |            |                               |
+|        | Oregelbundet   | se           | såg           | sett       |                               |
