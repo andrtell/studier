@@ -37,4 +37,18 @@ Alla ord har en stam. Till stammen lägger man ändelser.
 |        | sov-       | (att) sov-a  |
 |        | måla-      | (att) måla   |
 
+## Tema
 
+För att veta hur ett verb böjs lär man sig olika __tema__ på verbet.
+
+|  Verb  | Tema           | Exempel                             |
+| -------| -------------- | ----------------------------------- |
+|        | __infinitiv__  | (att)  måla                         |
+|        |                |        prata                        |
+|        |                |        spela                        |
+|        | __preterium__  | (igår) målade                       |
+|        |                |        pratade                      |
+|        |                |        spelade                      |
+|        | __supinum__    | (har)  målat                        |
+|        |                |        pratat                       |
+|        |                |        spelat                       |
