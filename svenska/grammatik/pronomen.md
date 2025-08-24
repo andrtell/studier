@@ -1,10 +1,8 @@
 # Pronomen
 
-Pronomen används för att ersätta substantiv, när vi är för lata för att upprepa substantivet.
-
 ## Personliga pronomen
 
-Personliga pronomen kan skrivan i __1:a person__, __2:a person__ och __3:e person__.
+Personliga pronomen används för att slippa upprepa ett substantiv och kan skrivan i __1:a person__, __2:a person__ och __3:e person__.
 
 | Pronomen | Person |                          | Kommentar                 | Exempel            |
 | -------- | ------ | -------------------------- | ------------------------- | ------------------ |
@@ -14,7 +12,7 @@ Personliga pronomen kan skrivan i __1:a person__, __2:a person__ och __3:e perso
 
 ### Subjekts- och Objekts-form
 
-Olika ord används beroende på om pronomet står som subjekt eller objekt i satsen.
+Olika varianter används beroende på om det personliga pronomet står som subjekt eller objekt i satsen.
 
 | Pronomen   |                    |                        |               |                    |
 | ---------- | ------------------ | ---------------------- | ------------- | ------------------ |
