@@ -34,7 +34,7 @@ Possesiva pronomen används för att tala om vem som äger något.
 |            | 2:a    | din, ditt, dina    |  er, ert, era    | Böjs efter substantivet  |
 |            | 3:e    | hans, hennes, dess |  deras           |                          |
 
-
+I svenska bryr vi oss inte om det possesiva pronomet står förenat med ett substantiv eller inte, så är inte fallet i många andra språk.
 
 ## Reflexiva pronomen
 
