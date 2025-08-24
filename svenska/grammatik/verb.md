@@ -94,4 +94,5 @@ Presens particip betecknar något som görs just nu, något som pågår. På sve
 | -------| ---------------------------------------- |
 |        | Jag ser <ins>lekande</ins> barn          |
 |        | Jag ser en <ins>springande</ins> pojke   |
+|        | Soldaten kom <ins>rusande</ins>          |
 
