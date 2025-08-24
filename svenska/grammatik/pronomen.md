@@ -52,6 +52,7 @@ Reflexiva pronomen syftar tillbaka på subjektet i satsen när subjekten är 3:e
 
 I Svenskan finns det reflexiva pronomet __sig__ och de possesiva reflexiva pronomen __sin__, __sitt__ och __sina__.
 
+I 1:a och 2:a person används i Svenskan ett personligt pronomen i objektsform istället för ett sant reflexivt pronomen.
 
 ## Demonstrativa pronomen
 
