@@ -62,3 +62,16 @@ För att veta hur ett verb böjs lär man sig olika __tema__ på verbet.
 |        | Starkt verb    | bit-a        | bet           | bit-it     | vokal ändras                  |
 |        |                |              |               |            |                               |
 |        | Oregelbundet   | se           | såg           | sett       |                               |
+
+
+## Tempus
+
+Verb talar om __vad som händer__ men också __när något händer__.
+
+|  Verb  | Tempus           |                                |  Exempel      |  Regel (Svenska) |
+| -------| ---------------- | ------------------------------ | ------------- | ---------------- |
+|        | Presens          |   Tidigare   [ Nu ]   Senare   | springer      | Stam + ändelse   |
+|        | Preteritum       | [ Tidigare ]   Nu     Senare   | sprang        | Stam + ändelse   |
+|        | Perfekt          | [ Tidigare     Nu ]   Senare   | har sprungit  | har + supinum    |
+|        | Pluskvamperfekt  | [ Tidigare     Nu ]?  Senare   | hade sprungit | hade + supinum   |
+|        | Futurm           |   Tidigare     Nu    [Senare]  | ska springa   | ska + infinitiv  |
