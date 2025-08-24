@@ -27,12 +27,12 @@ Olika varianter används beroende på om det personliga pronomet står som __sub
 
 Possesiva pronomen används för att tala om vem som äger något.
 
-| Pronomen   | Person | Numerus            |                  |
-| ---------- | -------| ------------------ | ---------------- |
-|            |        | _Singular_         |  _Plural_        |
-|            | 1:a    | min, mitt, mina    |  vår, vårt, våra |
-|            | 2:a    | din, ditt, dina    |  er, ert, era    |
-|            | 3:e    | hans, hennes, dess |  deras           |
+| Pronomen   | Person | Numerus            |                  | Kommentar                |
+| ---------- | -------| ------------------ | ---------------- | ------------------------ |
+|            |        | _Singular_         |  _Plural_        |                          |
+|            | 1:a    | min, mitt, mina    |  vår, vårt, våra | Böjs efter substantivet  |
+|            | 2:a    | din, ditt, dina    |  er, ert, era    | Böjs efter substantivet  |
+|            | 3:e    | hans, hennes, dess |  deras           |                          |
 
 
 
