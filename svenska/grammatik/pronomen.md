@@ -12,18 +12,28 @@ Personliga pronomen används för att slippa upprepa ett substantiv och kan skri
 
 ### Subjekts- och Objekts-form
 
-Olika varianter används beroende på om det personliga pronomet står som subjekt eller objekt i satsen.
+Olika varianter används beroende på om det personliga pronomet står som __subjekt__ eller __objekt__ i satsen.
 
-| Pronomen   |                    |                        |               |                    |
-| ---------- | ------------------ | ---------------------- | ------------- | ------------------ |
-|            | _Singular_         |                        | _Plural_      |                    |
-|            | __Subjekt__        | __Objekt__             | __Subjekt__   | __Objekt__         |
-| 1:a person | jag                | mig                    | vi            | oss                |
-| 2:a person | du                 | dig                    | ni            | er                 |
-| 2:a person | han, hon, den, det | honom, henne, det, det | de            | dem                |
+| Pronomen   |            |                    |                        |               |                    |
+| ---------- | ---------- | ------------------ | ---------------------- | ------------- | ------------------ |
+|            |            | _Singular_         |                        | _Plural_      |                    |
+|            |            | __Subjekt__        | __Objekt__             | __Subjekt__   | __Objekt__         |
+|            | 1:a person | jag                | mig                    | vi            | oss                |
+|            | 2:a person | du                 | dig                    | ni            | er                 |
+|            | 2:a person | han, hon, den, det | honom, henne, det, det | de            | dem                |
 
 
 ## Possesiva pronomen
+
+Possesiva pronomen används för att tala om vem som äger något.
+
+| Pronomen   |                    |                        |                 |
+| ---------- | ------------------ | ---------------------- | --------------- |
+|            | _Singular_         |                        | _Plural_        |
+| 1:a person | min, mitt, mina    |                        | vår, vårt, våra |
+| 2:a person | din, ditt, dina    |                        | er, ert, era    |
+| 2:a person | hans, hennes, dess |                        | deras           |
+
 
 
 ## Reflexiva pronomen
