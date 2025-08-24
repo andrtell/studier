@@ -112,6 +112,6 @@ Konditionalis talar om vad någon skulle göra, om det var möjligt.
 
 |  Verb  |                                          | Exempel                                     |  
 | ------ | ---------------------------------------- | ------------------------------------------- |
-|        | Tidigare   Nu  [ Senare ]                | Jag <ins>skulle resa</ins>, om jag hade råd |
+|        | Tidigare   Nu  [ Senare ]?               | Jag <ins>skulle resa</ins>, om jag hade råd |
 
 skulle + infinitiv
