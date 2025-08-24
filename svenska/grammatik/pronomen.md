@@ -36,6 +36,12 @@ Possesiva pronomen används för att tala om vem som äger något.
 
 I svenska bryr vi oss inte om det possesiva pronomet står förenat med ett substantiv eller inte, så är inte fallet i många andra språk.
 
+Jmfr Sv. med En.
+
+Det här är <ins>min</ins> bil / Bilen är <ins>min<ins>
+
+This is <ins>my</ins> car / The car is <ins>mine</ins>
+
 ## Reflexiva pronomen
 
 
