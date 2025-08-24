@@ -76,6 +76,16 @@ Verb talar om __vad som händer__ men också __när något händer__.
 |        | Pluskvamperfekt  | [ Tidigare     Nu ]?  Senare   | hade sprungit | hade + supinum   |
 |        | Futurum          |   Tidigare     Nu    [Senare]  | ska springa   | ska + infinitiv  |
 
+## Imperativ
+
+Verb på formen som används för att uppmana någon. På svenska böjs inte imperativ till skillnad från många andra språk.
+
+|  Verb  | Exempel |
+| -------| --------|
+|        | Spring! |
+|        | Ducka!  |
+|        | Sov!    |
+
 ## Perfekt particip
 
 Perfekt particip är en passiv verbform där den som gör något inte finns med. Subjektet saknas alltså.
