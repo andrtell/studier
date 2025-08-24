@@ -2,9 +2,9 @@
 
 Latin: substantivum, av substansia substans
 
-## Typ
+## Klass
 
-|  Substantiv  | Typ        | Exempel             |
+|  Substantiv  | Klass      | Exempel             |
 | ------------ | ---------- | ------------------- |
 |              | Egennamn   | Andreas, New York   |
 |              | Kollektiva | familj, grupp, lag  |
