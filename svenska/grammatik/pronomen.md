@@ -56,6 +56,9 @@ I 1:a och 2:a person används i Svenskan ett personligt pronomen i objektsform i
 
 ## Demonstrativa pronomen
 
+Demonstrativa pronomen pekar ut någon eller något.
+
+den, det, de, den här, det här, de här, den där, det där, de där, denna, detta, dessa, osv ...
 
 ## Relativa pronomen
 
