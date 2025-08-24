@@ -14,6 +14,8 @@ Personliga pronomen kan skrivan i __1:a person__, __2:a person__ och __3:e perso
 
 ### Subjekts- och Objekts-form
 
+Olika ord används beroende på om pronomet står som subjekt eller objekt i satsen.
+
 | Pronomen   |                    |                        |               |                    |
 | ---------- | ------------------ | ---------------------- | ------------- | ------------------ |
 |            | _Singular_         |                        | _Plural_      |                    |
