@@ -4,11 +4,11 @@
 
 Personliga pronomen används för att slippa upprepa ett substantiv och kan skrivan i __1:a person__, __2:a person__ och __3:e person__.
 
-| Pronomen | Person |                          | Kommentar                 | Exempel            |
-| -------- | ------ | -------------------------- | ------------------------- | ------------------ |
-|          | 1:a    | [ x ] ->   y       z       | den/de __som talar__      | jag, vi            |
-|          | 2:a    |   x   -> [ y ]     z       | den/de man __talar till__ | du, ni             |
-|          | 3:e    |   x   ->   y     [ z ]     | den/de man __talar om__   | han, hon, det, de  |
+| Pronomen | Person |                         | Kommentar                 | Exempel            |
+| -------- | ------ | ------------------------| ------------------------- | ------------------ |
+|          | 1:a    | __x__ ->  y  #  z       | den/de __som talar__      | jag, vi            |
+|          | 2:a    |   x   -> __y__ #  z     | den/de man __talar till__ | du, ni             |
+|          | 3:e    |   x   ->   y   # __z__  | den/de man __talar om__   | han, hon, det, de  |
 
 ### Subjekts- och Objekts-form
 
