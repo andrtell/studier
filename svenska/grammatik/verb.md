@@ -85,3 +85,13 @@ Perfekt particip är en passiv verbform där den som gör något inte finns med.
 |        | Affären är <ins>stängd</ins> |
 |        | Huset är <ins>målat</ins>    |
 |        | Sängen är <ins>bäddad</ins>  |
+
+## Presens particip
+
+Presens particip betecknar något som görs just nu, något som pågår. På svenska slutar presens particip alltid på -ande eller -ende.
+
+|  Verb  | Exempel                                  | 
+| -------| ---------------------------------------- |
+|        | Jag ser <ins>lekande</ins> barn          |
+|        | Jag ser en <ins>springande</ins> pojke   |
+
