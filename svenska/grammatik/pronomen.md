@@ -44,6 +44,14 @@ This is <ins>my</ins> car / The car is <ins>mine</ins>
 
 ## Reflexiva pronomen
 
+Reflexiva pronomen syftar tillbaka på subjektet i satsen när subjekten är 3:e person.
+
+| Subjekt    |        | Reflexivt pronomen |
+| ---------- | -------| ------------------ |
+| Han        | slog   | sig                |
+
+I Svenskan finns de reflexiva pronmen sig, sin, sitt och sina.
+
 
 ## Demonstrativa pronomen
 
