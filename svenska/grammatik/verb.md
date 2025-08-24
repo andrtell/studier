@@ -106,3 +106,12 @@ Presens particip betecknar något som görs just nu, något som pågår. På sve
 |        |                                          | Jag ser en <ins>springande</ins> pojke   |
 |        |                                          | Soldaten kom <ins>rusande</ins>          |
 
+## Konditionalis
+
+Konditionalis talar om vad någon skulle göra, om det var möjligt.
+
+|  Verb  |                                          | Exempel                                     |  
+| ------ | ---------------------------------------- | ------------------------------------------- |
+|        | Tidigare   Nu  [ Senare ]                | Jag <ins>skulle resa</ins>, om jag hade råd |
+
+skulle + infinitiv
