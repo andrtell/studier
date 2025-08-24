@@ -6,6 +6,8 @@ När adjektivet påverkas av substantivet säger man att adjektivet _kongurensb�
 
 ### Genus
 
+I Svenska böjs adjektivet efter Genus.
+
 | Adjektiv  | Genus     | Exempel             |
 | --------- | --------- | ------------------- |
 |           | Utrum     | en **gul** bil      |
@@ -13,12 +15,16 @@ När adjektivet påverkas av substantivet säger man att adjektivet _kongurensb�
 
 ### Numerus
 
+I Svenska böjs adjektivet efter Numerus.
+
 | Adjektiv  | Numerus   | Exempel             |
 | --------- | --------- | ------------------- |
 |           | Singular  | en **gul** bil      |
 |           | Plural    | tre **gula** bilar  |
 
-### Form 
+### Bestämd och obestämd form
+
+I Svenska böjs adjektivet efter form.
 
 | Adjektiv  | Form      | Exempel             |
 | --------- | --------- | ------------------- |
