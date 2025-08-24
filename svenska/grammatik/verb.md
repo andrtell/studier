@@ -75,3 +75,13 @@ Verb talar om __vad som händer__ men också __när något händer__.
 |        | Perfekt          | [ Tidigare     Nu ]   Senare   | har sprungit  | har + supinum    |
 |        | Pluskvamperfekt  | [ Tidigare     Nu ]?  Senare   | hade sprungit | hade + supinum   |
 |        | Futurum          |   Tidigare     Nu    [Senare]  | ska springa   | ska + infinitiv  |
+
+## Perfekt particip
+
+Perfekt particip är en passiv verbform där den som gör något inte finns med. Subjektet saknas alltså.
+
+|  Verb  | Exempel                      |
+| -------| ---------------------------- |
+|        | Affären är <ins>stängd</ins> |
+|        | Huset är <ins>målat</ins>    |
+|        | Sängen är <ins>bäddad</ins>  |
