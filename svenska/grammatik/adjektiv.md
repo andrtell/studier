@@ -6,7 +6,7 @@ När adjektivet påverkas av substantivet säger man att adjektivet _kongurensb�
 
 ### Genus
 
-I Svenska böjs adjektivet efter Genus.
+I Svenska böjs adjektivet efter substantivets Genus.
 
 | Adjektiv  | Genus     | Exempel             |
 | --------- | --------- | ------------------- |
@@ -15,7 +15,7 @@ I Svenska böjs adjektivet efter Genus.
 
 ### Numerus
 
-I Svenska böjs adjektivet efter Numerus.
+I Svenska böjs adjektivet efter substantivets Numerus.
 
 | Adjektiv  | Numerus   | Exempel             |
 | --------- | --------- | ------------------- |
@@ -24,7 +24,7 @@ I Svenska böjs adjektivet efter Numerus.
 
 ### Bestämd och obestämd form
 
-I Svenska böjs adjektivet efter form.
+I Svenska böjs adjektivet efter substantivets bestämd eller obestämda form.
 
 | Adjektiv  | Form      | Exempel             |
 | --------- | --------- | ------------------- |
