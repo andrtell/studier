@@ -62,6 +62,12 @@ den, det, de, den här, det här, de här, den där, det där, de där, denna, d
 
 ## Relativa pronomen
 
+Relativa pronomen syftar tillbaka på ett ord, flera ord, en satsdel eller en hel sats. Det som pronomet relaterar till kallas __korrelat__.
+
+Jag har [ en radiostyrd bil ] <ins>som</ins> går pa batterier.
+
+[ Den stad ], i <ins>vilket</ins> alla bodde ...
+
 
 ## Frågepronomen
 
