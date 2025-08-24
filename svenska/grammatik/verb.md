@@ -70,7 +70,7 @@ Verb talar om __vad som händer__ men också __när något händer__.
 
 |  Verb  | Tempus           |                                |  Exempel      |  Regel (Svenska) |
 | -------| ---------------- | ------------------------------ | ------------- | ---------------- |
-|        | Presens          |   Tidigare   [ Nu ]   Senare   | springer      | Stam + ändelse   |
+|        | Presens          |   Tidigare   [ Nu ]+  Senare   | springer      | Stam + ändelse   |
 |        | Preteritum       | [ Tidigare ]   Nu     Senare   | sprang        | Stam + ändelse   |
 |        | Perfekt          | [ Tidigare     Nu ]   Senare   | har sprungit  | har + supinum    |
 |        | Pluskvamperfekt  | [ Tidigare     Nu ]?  Senare   | hade sprungit | hade + supinum   |
