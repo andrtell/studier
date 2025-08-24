@@ -74,4 +74,4 @@ Verb talar om __vad som händer__ men också __när något händer__.
 |        | Preteritum       | [ Tidigare ]   Nu     Senare   | sprang        | Stam + ändelse   |
 |        | Perfekt          | [ Tidigare     Nu ]   Senare   | har sprungit  | har + supinum    |
 |        | Pluskvamperfekt  | [ Tidigare     Nu ]?  Senare   | hade sprungit | hade + supinum   |
-|        | Futurm           |   Tidigare     Nu    [Senare]  | ska springa   | ska + infinitiv  |
+|        | Futurum          |   Tidigare     Nu    [Senare]  | ska springa   | ska + infinitiv  |
