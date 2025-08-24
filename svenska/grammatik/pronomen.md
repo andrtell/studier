@@ -14,7 +14,7 @@ Personliga pronomen används för att slippa upprepa ett substantiv och kan skri
 
 Olika varianter används beroende på om det personliga pronomet står som __subjekt__ eller __objekt__ i satsen.
 
-| Pronomen   | Person | Numerus / Satsdel  |                        | Numerus / Satsdel |                    |
+| Pronomen   | Person | Numerus / Satsdel  |                        |                   |                    |
 | ---------- | ------ | ------------------ | ---------------------- | ----------------- | ------------------ |
 |            |        | _Singular_         |                        | _Plural_          |                    |
 |            |        | __Subjekt__        | __Objekt__             | __Subjekt__       | __Objekt__         |
