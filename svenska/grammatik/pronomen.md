@@ -2,7 +2,7 @@
 
 ## Personliga pronomen
 
-Personliga pronomen används för att slippa upprepa ett substantiv och kan skrivan i __1:a person__, __2:a person__ och __3:e person__.
+Personliga pronomen används för att slippa upprepa ett substantiv och skrivs i __1:a person__, __2:a person__ och __3:e person__.
 
 | Pronomen | Person |                         | Kommentar                 | Exempel            |
 | -------- | ------ | ------------------------| ------------------------- | ------------------ |
@@ -27,12 +27,12 @@ Olika varianter används beroende på om det personliga pronomet står som __sub
 
 Possesiva pronomen används för att tala om vem som äger något.
 
-| Pronomen   |                    |                        |                 |
-| ---------- | ------------------ | ---------------------- | --------------- |
-|            | _Singular_         |                        | _Plural_        |
-| 1:a person | min, mitt, mina    |                        | vår, vårt, våra |
-| 2:a person | din, ditt, dina    |                        | er, ert, era    |
-| 2:a person | hans, hennes, dess |                        | deras           |
+| Pronomen   | Person | Numerus            |                  |
+| ---------- | -------| ------------------ | ---------------- |
+|            |        | _Singular_         |  _Plural_        |
+|            | 1:a    | min, mitt, mina    |  vår, vårt, våra |
+|            | 2:a    | din, ditt, dina    |  er, ert, era    |
+|            | 3:e    | hans, hennes, dess |  deras           |
 
 
 
