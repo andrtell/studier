@@ -115,3 +115,14 @@ Konditionalis talar om vad någon skulle göra, om det var möjligt.
 |        | Tidigare   Nu  [ Senare ]?               | Jag <ins>skulle resa</ins>, om jag hade råd |
 
 skulle + infinitiv
+
+## Aktiv och passiv form
+
+Aktiv form är när subjektet i satsen är den som utför handlingen.
+
+|  Verb  | Exempel                                        |                                                          |                               
+| -------| ---------------------------------------------- | -------------------------------------------------------- |
+|        | <ins>Andreas</ins> jagar kaninen               | "Andreas" är __aktivt subjekt__                          |                                      
+|        | <ins>Kaninen</ins> jagas av <ins>Andreas</ins> | "Kaninen" är __passivt subjekt__, "Andreas" är __agent__ |
+
+
