@@ -71,3 +71,7 @@ Jag har [ en radiostyrd bil ] <ins>som</ins> går pa batterier.
 
 ## Frågepronomen
 
+Inleder frågor, direkta frågor eller indirekt frågor.
+
+Direkt: Vilken mat tycker du bäst om?
+Indirekt: Peter undrade vilken mat jag tycker bäst om.
