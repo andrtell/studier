@@ -50,7 +50,7 @@ Reflexiva pronomen syftar tillbaka på subjektet i satsen när subjekten är 3:e
 | ---------- | -------| ------------------ |
 | Han        | slog   | sig                |
 
-I Svenskan finns de reflexiva pronmen sig, sin, sitt och sina.
+I Svenskan finns det reflexiva pronomet __sig__ och de possesiva reflexiva pronomen __sin__, __sitt__ och __sina__.
 
 
 ## Demonstrativa pronomen
