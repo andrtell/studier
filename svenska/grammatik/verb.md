@@ -80,11 +80,11 @@ Verb talar om __vad som händer__ men också __när något händer__.
 
 Verb på formen som används för att uppmana någon. På svenska böjs inte imperativ till skillnad från många andra språk.
 
-|  Verb  | Exempel |
-| -------| --------|
-|        | Spring! |
-|        | Ducka!  |
-|        | Sov!    |
+|  Verb  |                             | Exempel |
+| -------| --------------------------- | ------- |
+|        | Tidigare   [ Nu    Senare ] | Spring! |
+|        |                             | Ducka!  |
+|        |                             | Sov!    |
 
 ## Perfekt particip
 
@@ -100,9 +100,9 @@ Perfekt particip är en passiv verbform där den som gör något inte finns med.
 
 Presens particip betecknar något som görs just nu, något som pågår. På svenska slutar presens particip alltid på -ande eller -ende.
 
-|  Verb  | Exempel                                  | 
-| -------| ---------------------------------------- |
-|        | Jag ser <ins>lekande</ins> barn          |
-|        | Jag ser en <ins>springande</ins> pojke   |
-|        | Soldaten kom <ins>rusande</ins>          |
+|  Verb  |                                          | Exempel                                  | 
+| ------ | ---------------------------------------- | ---------------------------------------- |
+|        | Tidigare   [ Nu ]  Senare                | Jag ser <ins>lekande</ins> barn          |
+|        |                                          | Jag ser en <ins>springande</ins> pojke   |
+|        |                                          | Soldaten kom <ins>rusande</ins>          |
 
